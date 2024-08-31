@@ -21,9 +21,9 @@
 title: Respicio & Co.
 # email: your-email@example.com
 description: Philippines' Most Rated Law Firm
-baseurl: "/lawyer-philippines.github.io" # the subpath of your site, e.g. /blog
-domain: lawyer-philippines.github.io
-url: "https://jhrespicio.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: "articles.lawyer-philippines.com"
+url: "articles.lawyer-philippines.com"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
