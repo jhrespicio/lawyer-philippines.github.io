@@ -23,7 +23,7 @@ title: Respicio & Co.
 description: Philippines' Most Rated Law Firm
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "articles.lawyer-philippines.com"
-url: "articles.lawyer-philippines.com"
+url: "https://articles.lawyer-philippines.com"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
