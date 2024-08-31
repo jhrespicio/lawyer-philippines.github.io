@@ -23,7 +23,7 @@ title: Respicio & Co.
 description: Philippines' Most Rated Law Firm
 baseurl: "/lawyer-philippines.github.io" # the subpath of your site, e.g. /blog
 domain: lawyer-philippines.github.io
-url: https://lawyer-philippines.github.io
+url: "https://jhrespicio.github.io"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -31,7 +31,6 @@ url: https://lawyer-philippines.github.io
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
