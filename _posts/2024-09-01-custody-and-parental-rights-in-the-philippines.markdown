@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Custody and Parental Rights in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Child custody disputes in the Philippines are governed by the Family Code and relevant jurisprudence. When parents separate, the issue of custody often arises, particularly when one parent refuses to surrender the child to the other parent. Under the law, parental authority and responsibility reside in both parents, and both have equal rights to the custody of their child.</p><p>For children under seven years of age, the law generally favors the mother’s custody, unless the court finds compelling reasons to rule otherwise, such as instances of neglect, abuse, or incapacity. However, the best interest of the child remains the paramount consideration in custody disputes.</p><p>If one parent unlawfully withholds custody of the child from the other parent, the aggrieved parent may file a petition for a writ of habeas corpus with the courts to compel the return of the child. The court will then determine the rightful custody based on the circumstances of the case.</p><p>In cases where one parent resides abroad, custody disputes can become more complex, requiring the court’s careful consideration of the child’s well-being, the ability of the parent to provide for the child, and the stability of the environment offered. It is advisable for parents in such situations to seek legal assistance to navigate the complexities of custody laws.</p>

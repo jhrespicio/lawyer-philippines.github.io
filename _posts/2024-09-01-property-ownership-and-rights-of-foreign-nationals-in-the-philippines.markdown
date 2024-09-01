@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Property Ownership and Rights of Foreign Nationals in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, property ownership is generally restricted for foreign nationals under the 1987 Constitution, which prohibits them from owning land, except under certain circumstances such as inheritance or acquiring condominium units. However, a foreign national may invest in a property through legal means such as forming a corporation with majority Filipino ownership, or by placing the property under a Filipino spouse's name. If a property is legally titled under the name of a Filipino spouse, the foreign national’s rights to the property depend on the specific arrangements made during the acquisition and marriage. If a couple separates, especially if it is a de facto separation without a legal declaration, the Filipino spouse retains ownership of the property. If the Filipino spouse intends to sell the property, the foreign national typically has no direct claim, unless a legal document exists that specifies co-ownership or financial contribution that can be enforced. In cases where the foreign spouse refuses to sign documents necessary for the sale, legal remedies may involve judicial intervention to compel the signing or to proceed with the sale despite the lack of consent.</p>

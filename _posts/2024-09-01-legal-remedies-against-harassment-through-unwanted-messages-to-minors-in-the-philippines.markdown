@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Remedies Against Harassment Through Unwanted Messages to Minors in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, the protection of minors from harassment, including online harassment, is a critical legal issue. Under Republic Act No. 7610, or the Special Protection of Children Against Abuse, Exploitation, and Discrimination Act, any act of harassment or abuse towards a minor can be subject to legal action. Sending inappropriate or harmful messages to a minor, especially when it involves derogatory remarks about their academic standing or other personal attributes, can be considered a form of child abuse or cyberbullying.</p><p>Parents or guardians of the minor can file a complaint with the local police or the National Bureau of Investigation (NBI) Cybercrime Division. The Anti-Cybercrime Act of 2012 (Republic Act No. 10175) also provides for penalties against online harassment and cyberbullying. This law criminalizes acts such as online libel, identity theft, and other cybercrimes that could be used to harass or harm minors.</p><p>Additionally, the Revised Penal Code of the Philippines includes provisions against acts of libel and slander, which can be applied if the messages contain defamatory statements. The child’s honor and dignity are protected by these laws, and legal recourse is available to hold the perpetrator accountable.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Remedies for Disputes Involving Acknowledgment Receipts and Deeds of Absolute Sale"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Property transactions in the Philippines are typically formalized through a Deed of Absolute Sale, which is a legal document transferring ownership of property from the seller to the buyer. However, complications can arise when an earlier transaction is only evidenced by an acknowledgment receipt, especially if the property is later sold to another party under a Deed of Absolute Sale. The acknowledgment receipt may signify partial payment or an initial agreement, but it does not, by itself, confer ownership. In contrast, the Deed of Absolute Sale, which is usually notarized, is a definitive document proving the transfer of ownership. If a dispute arises where a subsequent buyer holds a Deed of Absolute Sale while the initial buyer has only an acknowledgment receipt, the matter may require legal intervention. The first buyer can challenge the sale, arguing that they have a prior right to the property based on equitable principles. However, without a Deed of Absolute Sale in their favor, their position may be weaker. The resolution of such disputes often hinges on proving bad faith, fraudulent intent, or breach of contract, and the case may ultimately be decided in court.</p>

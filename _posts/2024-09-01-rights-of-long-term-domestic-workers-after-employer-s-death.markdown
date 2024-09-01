@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Rights of Long-Term Domestic Workers After Employer's Death"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, domestic workers, also known as kasambahays, are protected under the Domestic Workers Act (Republic Act No. 10361), which guarantees their rights to fair wages, humane working conditions, and other labor standards. In cases where a long-term domestic worker, particularly one who has served without formal compensation, is faced with the death of their employer, the worker's rights may come into question, especially regarding claims to housing or benefits. While the death of the employer does not automatically grant the domestic worker ownership or tenancy rights over the employer's property, the worker may seek assistance from the Department of Labor and Employment (DOLE) or other relevant agencies to secure benefits such as severance pay or assistance in finding new employment. If the worker is being forcibly evicted, they may also have recourse to legal action, particularly if the eviction process violates due process or the worker's rights. Legal aid organizations may offer support in negotiating a fair settlement or alternative housing arrangements.</p>

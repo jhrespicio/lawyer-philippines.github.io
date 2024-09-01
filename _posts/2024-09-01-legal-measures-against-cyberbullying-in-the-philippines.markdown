@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Measures Against Cyberbullying in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Cyberbullying is a serious issue that has gained significant attention in the Philippines in recent years. Under Philippine law, cyberbullying is not specifically defined, but it can fall under several provisions of existing laws, such as the Cybercrime Prevention Act of 2012 (Republic Act No. 10175) and the Revised Penal Code. The Cybercrime Prevention Act penalizes cyber libel, which can include online harassment, defamation, and other forms of cyberbullying. Victims of cyberbullying can file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP) Cybercrime Division. The penalties for cyber libel include imprisonment and fines, depending on the severity of the offense. It is important for victims to document all evidence of cyberbullying, such as screenshots and messages, as these will be crucial in filing a case. The law also covers cases where cyberbullying leads to more severe consequences, such as threats or extortion, which can be prosecuted under different criminal laws. Public awareness and education are key in combating cyberbullying, and schools and communities are encouraged to take proactive measures to prevent and address this issue.</p>

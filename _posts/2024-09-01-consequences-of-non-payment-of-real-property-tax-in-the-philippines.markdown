@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Consequences of Non-Payment of Real Property Tax in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, real property tax (amilyar) is a crucial obligation for landowners. Failure to pay real property taxes for an extended period, such as 23 years, can have significant legal consequences, including the possible expropriation or forfeiture of the property by the government. The Local Government Code of 1991 (Republic Act No. 7160) empowers local government units (LGUs) to collect real property taxes and imposes penalties for non-payment.</p><p>If a landowner fails to pay the required taxes, the LGU may initiate an auction process where the property can be sold to recover the unpaid taxes. However, the landowner is typically given notice and an opportunity to settle the arrears before such drastic measures are taken. It's essential for landowners to be aware of their tax obligations and to seek legal advice if they face difficulties in settling their tax liabilities.</p><p>The Department of Agrarian Reform (DAR) does not typically confiscate land for unpaid real property taxes; however, if the land is part of the agrarian reform program, other specific regulations may apply. It's crucial to distinguish between general real property tax obligations and those that may arise under specific agrarian laws.</p>

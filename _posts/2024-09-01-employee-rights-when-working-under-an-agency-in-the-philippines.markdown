@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employee Rights When Working Under an Agency in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, workers employed under an agency or manpower service provider are typically considered as employees of the agency rather than the company where they are deployed. This setup is commonly referred to as labor contracting. The Labor Code of the Philippines, particularly Department Order No. 174, Series of 2017, regulates labor contracting and stipulates the rights and obligations of employees, agencies, and principals (the companies where the employees are deployed).</p><p>Agency-hired employees are entitled to the same labor rights as regular employees, including minimum wage, holiday pay, overtime pay, night shift differential, 13th month pay, and social security benefits. It is the responsibility of the agency to ensure these rights are granted. If an employee under an agency is terminated or experiences issues such as unpaid wages, they should first address the concern with the agency. If the issue is not resolved, the employee may file a complaint with the DOLE.</p><p>Employees should also be aware that in some cases, they may be entitled to regularization under the principal company, especially if their employment is considered direct hiring or if they perform tasks that are directly related to the core business of the principal.</p>

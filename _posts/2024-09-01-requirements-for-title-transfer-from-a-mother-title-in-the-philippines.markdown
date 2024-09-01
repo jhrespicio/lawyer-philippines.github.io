@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Requirements for Title Transfer from a Mother Title in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Transferring a land title from a mother title, or the original title, involves several steps and requirements in the Philippines. The process is typically undertaken when a large parcel of land is subdivided, or when ownership is transferred from one party to another. The primary requirements for this transaction include the original copy of the mother title, a duly accomplished Deed of Sale or other relevant documents indicating the transfer of ownership, and a certified true copy of the Tax Declaration. Additionally, the new owner must secure a Certificate Authorizing Registration (CAR) from the Bureau of Internal Revenue (BIR), which certifies that all applicable taxes have been paid. The owner must also obtain a transfer tax receipt from the local government unit where the property is located. After completing these requirements, the documents are submitted to the Registry of Deeds for the issuance of a new title under the new owner’s name. The process can be complex, and it is advisable to consult with legal professionals or a licensed real estate broker to ensure compliance with all legal requirements and to expedite the process.</p>

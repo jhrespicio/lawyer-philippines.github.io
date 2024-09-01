@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Defamation and Freedom of Speech in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>In the Philippines, the right to free speech is enshrined in the Constitution, but it is not absolute. Statements that are defamatory in nature can give rise to criminal and civil liability under Philippine law. Defamation is typically classified into two types: libel (written defamation) and slander (spoken defamation). A statement that harms a person's reputation, whether spoken or written, may be considered defamatory if it is untrue and made with malice. In assessing whether a statement is defamatory, the context and intent behind the statement, as well as its impact on the person’s reputation, are considered. Statements that criticize someone's character or conduct, even if true, can still be defamatory if made with malicious intent to cause harm. Therefore, calling someone intelligent but implying a negative character trait, such as having a bad attitude, could be considered defamatory depending on the circumstances. Individuals who believe they have been defamed may file a complaint with the appropriate court, and the accused may face penalties if found guilty.</p>

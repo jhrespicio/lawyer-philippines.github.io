@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Recourse Against Online Lending Harassment in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Borrowing from online lending companies has become increasingly popular in the Philippines due to its convenience. However, this has also led to a rise in cases of harassment by these companies when borrowers fail to repay their loans on time. The law in the Philippines provides protection against such practices under Republic Act No. 10173, also known as the Data Privacy Act of 2012, and Republic Act No. 9439, which prohibits the public shaming of debtors.</p><p>Harassment by lenders can take various forms, including threatening messages, defamatory statements, and public shaming, such as posting altered photos of the debtor on social media. Such actions are illegal and can be grounds for a legal complaint. Victims of these unlawful practices can file complaints with the National Privacy Commission (NPC) for violations of their privacy rights. Additionally, the Revised Penal Code may be invoked in cases involving threats and defamation.</p><p>Borrowers facing harassment should document all instances of abuse, including screenshots of messages and posts, as these will be essential in filing a formal complaint. It is also advisable to consult with a lawyer to explore legal options, which may include filing civil or criminal cases against the offending lending company.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Actions Against Online Harassment and Defamation in the Philippines"
+date: 2024-09-01 18:25:54 +0800
+---
+
+<p>Online harassment and defamation are significant concerns in the Philippines, particularly with the rise of social media platforms. The Cybercrime Prevention Act of 2012 (Republic Act No. 10175) provides legal remedies for individuals who are victims of online harassment, including cyberstalking, identity theft, and libel.</p><p>Cyber libel is defined under the Act as libel committed through a computer system or any other similar means. It carries a higher penalty than traditional libel under the Revised Penal Code. Victims of online harassment can file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP) Anti-Cybercrime Group. The complaint must be supported by evidence, such as screenshots of the harassing messages, URLs, and other digital records.</p><p>In addition to criminal charges, victims may also pursue civil actions for damages under the Civil Code of the Philippines. This can include compensation for moral and exemplary damages. It is important for victims to seek legal counsel to guide them through the process and to ensure that their rights are protected.</p><p>To protect oneself from further harassment, victims can also request the issuance of a temporary restraining order (TRO) or a permanent protection order (PPO) from the courts. These orders can compel the harasser to cease all forms of contact with the victim.</p>
