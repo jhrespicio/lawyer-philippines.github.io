@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Addressing Defamation Across International Borders"
+date: 2024-09-01 01:46:51 +0800
+---
+
+<p>Defamation, whether in the form of libel or slander, is a serious offense in the Philippines, punishable under the Revised Penal Code. However, when defamation occurs across international borders, as in the case where the parties involved are in different countries, the situation becomes more complex. The issue of jurisdiction is crucial; generally, the offended party may file a complaint in the country where the defamatory statement was made or where it was published. For instance, if the defamation was made online and the content was accessible in the Philippines, the Filipino courts could assert jurisdiction over the matter. However, enforcing judgments across borders can be challenging and may require the assistance of international legal frameworks or treaties, such as the Mutual Legal Assistance Treaty (MLAT), to which the Philippines is a signatory. Victims of cross-border defamation are advised to seek legal counsel to navigate the complexities of international law and to explore options for legal recourse in both the Philippines and the country where the defamation originated.</p>

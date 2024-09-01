@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Process of Stepparent Adoption in the Philippines"
+date: 2024-09-01 02:57:53 +0800
+---
+
+<p>In the Philippines, the legal adoption of a child by a stepparent is governed by the <em>Domestic Adoption Act of 1998</em> (Republic Act No. 8552). This law allows a stepparent to adopt their spouse’s child, providing the stepparent with the same legal rights and responsibilities as a biological parent.</p><p>To initiate the adoption process, the consent of both the biological parent (if still living and holding parental rights) and the child (if the child is over 10 years old) is required. The process involves filing a petition for adoption in the Family Court of the area where the adopting stepparent resides. The court will then order a home study to assess the suitability of the stepparent as an adoptive parent.</p><p>Once the adoption is approved, the child will have the same legal status as a biological child of the stepparent, including rights to inheritance. It is important to note that the adoption will sever the legal ties between the child and the non-custodial biological parent, except in cases where that parent consents to a co-parenting arrangement.</p><p>Given the complexities of adoption laws in the Philippines, it is advisable to consult with a family law attorney to navigate the legal requirements and ensure that the adoption process is conducted smoothly and legally.</p>

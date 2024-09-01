@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Dissolution of Marriage in the Philippines: Legal Grounds and Procedures"
+date: 2024-09-01 02:33:57 +0800
+---
+
+<p>The dissolution of marriage in the Philippines, which can take the form of annulment or legal separation, is governed by the Family Code of the Philippines. Unlike divorce, which is not recognized in the Philippines, annulment declares a marriage void from the beginning, while legal separation does not dissolve the marriage but allows spouses to live separately and divide their assets.</p><p>Annulment can be granted on several grounds, including psychological incapacity, fraud, and lack of legal capacity to marry. The process involves filing a petition in family court, presenting evidence, and undergoing psychological evaluation if psychological incapacity is claimed. The court's decision is based on the merits of the case and the evidence presented.</p><p>Legal separation, on the other hand, does not allow remarriage but provides legal recognition of the couple's separation and division of property. Both annulment and legal separation are complex legal processes that require the expertise of a lawyer specializing in family law.</p><p>Given the intricate nature of these legal proceedings, individuals seeking to dissolve their marriage should seek professional legal advice to understand the implications, costs, and potential outcomes of their case.</p>

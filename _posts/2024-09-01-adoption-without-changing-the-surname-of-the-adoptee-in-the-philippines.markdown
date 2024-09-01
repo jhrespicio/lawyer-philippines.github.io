@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Adoption Without Changing the Surname of the Adoptee in the Philippines"
+date: 2024-09-01 01:37:13 +0800
+---
+
+<p>In the Philippines, the process of adoption is governed by Republic Act No. 8552, also known as the Domestic Adoption Act of 1998. Adoption is a legal process by which a person assumes the parental rights and responsibilities over a child, thereby establishing a parent-child relationship between them.</p><p>One common question regarding adoption is whether it is possible to adopt a child without changing the child&#39;s surname. Under Philippine law, it is generally required that the adopted child takes the surname of the adopting parents. This is in line with the principle that adoption aims to simulate a natural-born relationship between the adopter and the adoptee, including the use of the adopter&#39;s surname.</p><p>However, there are exceptions to this rule. In cases where the adopting parent is a single female and the adoptee is her illegitimate child, the child may retain the biological father&#39;s surname, provided it is explicitly stated in the adoption decree. Additionally, in certain special cases, such as adoption by relatives within the fourth degree of consanguinity, the court may allow the child to retain their original surname if it is deemed in the child&#39;s best interest.</p><p>It is important for prospective adoptive parents to seek legal counsel to understand the implications of surname changes in adoption and to ensure that the adoption process is handled in accordance with the law.</p>

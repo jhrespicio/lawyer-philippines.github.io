@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Consequences of Non-Appearance of Complainant in Preliminary Investigation"
+date: 2024-09-01 01:37:13 +0800
+---
+
+<p>In Philippine legal proceedings, a preliminary investigation is a critical stage in the prosecution of a criminal case. It is conducted by the state prosecutor to determine whether there is sufficient evidence to warrant the filing of a criminal case in court.</p><p>When a complainant fails to appear at the scheduled preliminary investigation, it may have significant consequences on the outcome of the case. Under the Rules of Court, the absence of the complainant may result in the dismissal of the complaint, especially if their testimony or evidence is crucial to establish probable cause.</p><p>However, the prosecutor has the discretion to proceed with the investigation if there is sufficient documentary evidence or if the complainant&#39;s presence is not deemed essential. Conversely, if the complainant’s testimony is necessary to substantiate the charges, their non-appearance could lead to the dismissal of the complaint for lack of interest to prosecute.</p><p>The complainant may be given another chance to appear, but repeated failure to attend may reinforce the presumption of abandonment of the case. It is therefore crucial for complainants to attend the preliminary investigation or provide a valid reason for their absence to avoid jeopardizing their case.</p>

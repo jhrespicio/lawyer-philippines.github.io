@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Understanding Service Charges in Loan Agreements"
+date: 2024-09-01 02:57:53 +0800
+---
+
+<p>Service charges in loan agreements are a common practice, but they often lead to confusion and disputes among borrowers in the Philippines. According to the <em>Consumer Act of the Philippines</em> (Republic Act No. 7394), lenders are required to disclose all fees and charges associated with a loan, including service charges. These charges are typically a percentage of the loan amount and cover administrative costs associated with processing the loan.</p><p>In cases where borrowers receive less than the full loan amount due to the deduction of service charges, it is essential to examine the loan agreement to ensure that these charges were clearly stipulated and agreed upon. If the charges are found to be excessive or not disclosed properly, borrowers may have legal recourse under the <em>Truth in Lending Act</em> (Republic Act No. 3765).</p><p>Borrowers who feel that they have been unfairly charged should seek legal advice to determine if the lender has violated any laws. The <em>BSP Circular No. 730</em> also provides guidelines on the transparency of financial products and services, which lenders must follow. It is crucial for borrowers to understand these terms before entering into a loan agreement to avoid any misunderstandings or legal issues later on.</p>
