@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Actions Against Defamation and Profanity in Messenger in the Philippines"
+date: 2024-09-01 09:39:14 +0800
+---
+
+<p>In the Philippines, defamation, or the act of communicating false information that harms a person's reputation, is a punishable offense under the Revised Penal Code. When defamatory statements or profane language are made through electronic means, such as Messenger, the crime of cyber libel may be committed. Under the Cybercrime Prevention Act of 2012 (Republic Act No. 10175), cyber libel is defined as libel committed through a computer system or other similar means. The penalties for cyber libel are more severe than those for traditional libel, reflecting the potentially far-reaching impact of online defamation.</p><p>To take legal action against a person engaging in defamation or profane behavior in Messenger, the aggrieved party may file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP). The complainant must provide evidence, such as screenshots or recordings of the defamatory messages, to support their case. If found guilty, the offender could face imprisonment, fines, and civil liabilities for damages caused.</p><p>It is important to note that the right to free speech is not absolute, and individuals who abuse this right by engaging in defamatory conduct may be held accountable under Philippine law. The legal process can be complex, so seeking advice from a qualified attorney is advisable to ensure proper handling of the case.</p>

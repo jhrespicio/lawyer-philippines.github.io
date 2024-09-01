@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Resignation During Probationary Period in the Philippines: Legal Considerations"
+date: 2024-09-01 09:39:14 +0800
+---
+
+<p>In the Philippines, employees under probationary status have the right to resign from their employment, but certain legal considerations must be observed. The Labor Code of the Philippines provides that a probationary employee is generally entitled to the same rights as regular employees, except in terms of security of tenure. This means that probationary employees can resign during the probationary period, provided they give proper notice to their employer.</p><p>According to Article 285 of the Labor Code, an employee who wishes to resign must provide their employer with a written notice at least 30 days in advance, unless a shorter period has been agreed upon by both parties. This notice period allows the employer to find a suitable replacement or make necessary adjustments. Failure to provide proper notice may result in legal consequences, such as liability for damages.</p><p>If the workload or other conditions of employment during the probationary period are overwhelming or unsuitable, it is advisable for the employee to communicate these concerns to their employer. In some cases, this may lead to an adjustment of duties or a mutual agreement for an earlier end to the employment relationship. However, if resignation is the chosen course, adhering to legal requirements ensures a smooth transition and protects the employee's rights.</p>
