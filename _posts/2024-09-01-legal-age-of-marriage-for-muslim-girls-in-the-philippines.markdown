@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Age of Marriage for Muslim Girls in the Philippines"
+date: 2024-09-01 09:11:10 +0800
+---
+
+<p>In the Philippines, the legal framework governing the marriage of Muslim individuals is primarily dictated by Presidential Decree No. 1083, also known as the Code of Muslim Personal Laws. This law applies specifically to Filipino Muslims and is distinct from the general civil laws that govern non-Muslim citizens.</p><p>Under the Code of Muslim Personal Laws, the legal age for marriage for a Muslim girl is 15 years old. However, the law allows for a marriage to take place even if the girl is below 15 years of age, provided she has attained puberty and the marriage is with her guardian's consent. This is a significant departure from the general marriage law under the Family Code of the Philippines, which sets the minimum age for marriage at 18 years for both men and women.</p><p>The Code of Muslim Personal Laws recognizes the customs and religious practices of the Muslim community in the Philippines, allowing for these exceptions. However, it is crucial for the marriage to comply with all other legal requirements set forth in the Code to be considered valid under Philippine law.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Probationary Employment and the Right to Extension in the Philippines"
+date: 2024-09-01 09:11:10 +0800
+---
+
+<p>Under Philippine labor law, probationary employment typically lasts for a period of six months, during which the employer assesses the employee's performance. If the employee fails to meet the employer’s standards within this period, the employer has the right to terminate the employee’s contract without severance pay, provided that the termination is based on just or authorized causes as outlined in the Labor Code. However, there may be instances where an employer wishes to extend the probationary period to allow the employee more time to prove their capability. The extension of a probationary period is generally not permissible unless there is an agreement between the employer and the employee, and such an extension is made before the original probationary period ends. Any extension beyond the six-month period without proper agreement could result in the employee being considered a regular employee, entitled to all the rights and benefits thereof. Therefore, it is crucial for both employers and employees to clearly understand the terms of probationary employment and any conditions for extension.</p>

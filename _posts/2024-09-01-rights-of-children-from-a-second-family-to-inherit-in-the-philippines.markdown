@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Rights of Children from a Second Family to Inherit in the Philippines"
+date: 2024-09-01 08:58:42 +0800
+---
+
+<p>In the Philippines, inheritance laws are governed by the Civil Code, which recognizes the rights of legitimate, illegitimate, and acknowledged natural children to inherit from their parents. Children from a second family, often referred to as children of a &#34;kabit&#34; (a colloquial term for a mistress or second partner), are considered illegitimate if the parents were not legally married. Under the law, illegitimate children are entitled to inherit, but their share is typically half of what a legitimate child would receive. This means that while they have a right to an inheritance, it is not equal to that of legitimate children. However, it is important to note that all children, whether legitimate or illegitimate, must be acknowledged by the parent to be entitled to inherit. The acknowledgment can be through various means, such as through the birth certificate, written acknowledgment, or any public document. Without such acknowledgment, the child may face difficulties in claiming their rightful share. The law aims to balance the rights of all children, regardless of their parents&#39; marital status, while upholding the rights of legitimate heirs.</p>

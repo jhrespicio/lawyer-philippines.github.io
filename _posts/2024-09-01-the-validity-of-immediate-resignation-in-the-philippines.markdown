@@ -1,0 +1,7 @@
+---
+layout: article
+title: "The Validity of Immediate Resignation in the Philippines"
+date: 2024-09-01 09:11:10 +0800
+---
+
+<p>In the Philippines, resignation from employment is a right of every employee. However, the legality of an immediate resignation, or a resignation without the required notice period, is a contentious issue. Under Article 285 of the Labor Code of the Philippines, an employee is required to serve a 30-day notice before the effectivity of their resignation, unless otherwise provided in a contract or company policy.</p><p>Immediate resignation is generally only valid under certain circumstances, such as when the employee is subjected to inhumane treatment by the employer or if there is a serious threat to the employee's life or safety. If an employee resigns without serving the required notice and without valid grounds, the employer may not accept the resignation and could classify the employee as absent without official leave (AWOL). This can have legal and professional repercussions for the employee, including the possibility of being held liable for damages, particularly if the sudden departure causes the employer undue hardship.</p><p>On the other hand, some employers may choose to waive the 30-day notice requirement, especially if both parties come to an agreement. It is crucial for employees to review their employment contracts and understand their rights and obligations under the law to avoid potential conflicts.</p>

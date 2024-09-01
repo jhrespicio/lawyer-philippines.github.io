@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Protections Against Verbal Abuse in the Philippines"
+date: 2024-09-01 09:11:10 +0800
+---
+
+<p>In the Philippines, verbal abuse, especially when directed towards vulnerable individuals such as children or persons with disabilities, can be a serious matter. The law provides various protections against such abuse under the Revised Penal Code and other relevant legislation.</p><p>Verbal abuse may constitute a crime under Article 282 (Grave Threats), Article 283 (Light Threats), or Article 287 (Unjust Vexation) of the Revised Penal Code, depending on the nature and severity of the abuse. Additionally, Republic Act No. 7610, known as the Special Protection of Children Against Abuse, Exploitation and Discrimination Act, provides further protection to children against all forms of abuse, including verbal abuse.</p><p>If a person is subject to verbal abuse, especially if it targets a vulnerable individual like a special child, the victim or their guardian can file a complaint with the barangay, the police, or directly with the prosecutor's office. Legal action can lead to penalties, including fines or imprisonment, for the offender. The law aims to protect individuals from harm and ensure that those who commit such acts are held accountable.</p>

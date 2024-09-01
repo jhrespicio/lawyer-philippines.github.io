@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Requirements for Marriage Under Parental Consent in the Philippines"
+date: 2024-09-01 08:58:42 +0800
+---
+
+<p>In the Philippines, the Family Code outlines specific requirements for individuals intending to marry, particularly those who are under the age of 25. Under Article 14 of the Family Code, individuals aged 18 to 21 are required to obtain parental consent before they can legally marry. For those aged 21 to 25, parental advice is necessary, although the absence of such advice does not invalidate the marriage, but it may delay the issuance of the marriage license.</p><p>If one or both parents are deceased, or if the parents are unable to give consent, the law provides alternatives. In cases where a parent has passed away or is estranged, such as when they are not in good terms with the child, the surviving parent or the legal guardian&#39;s consent is required. If the parents are separated or not in good terms, the consent of the parent with legal custody or the court-appointed guardian is needed.</p><p>To formalize the marriage, the couple must secure a marriage license from the local civil registrar&#39;s office, which will require proof of parental consent or advice. It is important for couples in such situations to consult with legal professionals to ensure that all legal requirements are met before proceeding with the marriage.</p>

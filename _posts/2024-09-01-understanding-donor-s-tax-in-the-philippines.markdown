@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Understanding Donor's Tax in the Philippines"
+date: 2024-09-01 09:11:10 +0800
+---
+
+<p>Donor's tax in the Philippines is a tax imposed on the transfer of property by a person, called the donor, to another, called the donee, without adequate consideration or compensation. The imposition of donor's tax is governed by the National Internal Revenue Code (NIRC) of the Philippines, as amended.</p><p>The amount of donor's tax is determined based on the fair market value of the property donated at the time of the donation and is subject to certain rates depending on the relationship between the donor and the donee. As of the latest amendment, a flat rate of 6% is applied to the net gifts exceeding P250,000 in a calendar year.</p><p>It is essential for donors to ensure the accuracy of the tax computation, as errors can lead to significant tax liabilities. When calculating the tax, one must consider all relevant factors, including any allowable deductions and the proper valuation of the donated property. If there are doubts regarding the computation, it is advisable to consult with a tax professional or the Bureau of Internal Revenue (BIR) to ensure compliance and avoid potential penalties.</p>
