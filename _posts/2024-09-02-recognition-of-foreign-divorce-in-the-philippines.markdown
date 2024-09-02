@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Recognition of Foreign Divorce in the Philippines"
+date: 2024-09-02 19:06:56 +0800
+---
+
+<p>Divorce is not recognized in the Philippines when it comes to marriages between Filipino citizens. However, if a Filipino citizen obtains a divorce decree abroad from a foreign spouse, the divorce may be recognized in the Philippines under certain conditions. The Filipino spouse must file a petition for the recognition of the foreign divorce decree in the Philippine courts. This process involves proving the authenticity of the foreign divorce and that it was validly obtained according to the laws of the foreign country.</p><p>Once the foreign divorce is recognized by the Philippine court, the Filipino spouse is considered legally single and can remarry under Philippine law. It’s important to note that this recognition applies only if the divorce was initiated by the foreign spouse or was mutually agreed upon in a foreign jurisdiction where divorce is legal.</p><p>For Filipinos married to other Filipinos, divorce obtained abroad will not be recognized, and they remain married in the eyes of Philippine law. In such cases, the only way to legally end the marriage is through annulment or legal separation, which are both complex and stringent processes under Philippine law.</p>

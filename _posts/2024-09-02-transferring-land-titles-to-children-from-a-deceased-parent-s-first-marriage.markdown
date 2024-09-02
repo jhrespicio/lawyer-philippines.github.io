@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Transferring Land Titles to Children from a Deceased Parent's First Marriage"
+date: 2024-09-02 19:06:56 +0800
+---
+
+<p>Transferring land titles to children from a deceased parent's first marriage is a matter governed by the laws of succession in the Philippines. According to the Civil Code, children from the first marriage are considered legitimate heirs and have the right to inherit from their deceased parent. The transfer of land titles can be initiated once the estate of the deceased is settled, which involves the execution of an <em>Extrajudicial Settlement of Estate</em> if the heirs agree and no will is present.</p><p>The surviving spouse from the second marriage may also be entitled to a portion of the estate, depending on the property regime that governed the marriage. This portion could affect the share of the children from the first marriage. However, the rights of legitimate children cannot be completely disregarded as they are entitled to their <em>legitime</em>, a portion of the estate that is reserved for them by law.</p><p>To transfer the land title, the heirs must obtain a clearance from the Bureau of Internal Revenue (BIR) for the payment of estate taxes. Once the taxes are settled, the Registry of Deeds can process the transfer of the title to the children. It is advisable to consult with a legal professional to ensure that the transfer complies with all legal requirements and that the rights of all heirs are protected.</p>

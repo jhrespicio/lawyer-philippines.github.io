@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Changing Your Full Name in the Philippines: Legal Procedures and Considerations"
+date: 2024-09-02 19:06:56 +0800
+---
+
+<p>Changing one's full name, including both the given name and surname, is a legal process in the Philippines that requires a court order. Under Republic Act No. 9048, as amended by Republic Act No. 10172, individuals can file a petition for a change of name with the local civil registry. However, this process is typically allowed only under specific circumstances, such as when the name is ridiculous, tainted with dishonor, or when the petitioner has been publicly known by a different name in the community.</p><p>If an individual wishes to completely change their entire name, including the middle name, the petition must be thoroughly justified. The court will consider the reasons provided and may require evidence of the petitioner’s use of the new name in everyday life or how the current name has caused significant inconvenience or harm.</p><p>Once the court grants the petition, the decision is sent to the local civil registry, which then updates the official records. It’s also essential for the petitioner to inform all relevant institutions, such as banks, schools, and government agencies, about the name change to avoid any legal complications in the future.</p>

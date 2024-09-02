@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employee Benefits and Entitlements Upon Resignation After Seven Years of Service"
+date: 2024-09-02 19:06:56 +0800
+---
+
+<p>In the Philippines, employees who resign after seven years of service are entitled to certain benefits. The most significant of these is the <em>separation pay</em>, which is generally equivalent to at least one month’s salary for every year of service, as mandated by the Labor Code of the Philippines. This applies to employees who were terminated without just cause or who resigned for an authorized reason, such as illness.</p><p>Additionally, employees are entitled to receive their final pay, which includes unpaid salaries, proportional 13th-month pay, and any unused leave credits. It’s important for resigning employees to notify their employers at least 30 days in advance, as this notice period is required by law unless a different period is stipulated in the employment contract.</p><p>The employer is also obligated to issue a Certificate of Employment (COE) upon the employee's request, which is crucial for future job applications. The COE should detail the period of employment and the roles held by the employee.</p><p>Resigning employees should ensure that they comply with any remaining obligations under their contract, such as the return of company property, to avoid potential legal issues.</p>
