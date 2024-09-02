@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Understanding Article 34 of the Family Code of the Philippines"
+date: 2024-09-02 18:16:40 +0800
+---
+
+<p>Article 34 of the <em>Family Code of the Philippines</em> is a provision that allows certain couples to marry without the need for a marriage license, provided specific conditions are met. This article applies to couples who have lived together as husband and wife for at least five years and have no legal impediment to marry each other.</p><p>The rationale behind this provision is to simplify the process for couples who have been in a long-term, stable relationship and wish to formalize their union. To qualify under Article 34, the couple must execute an affidavit stating that they have cohabited for at least five years without any legal impediment to marry. This affidavit must be sworn before any person authorized by law to administer oaths.</p><p>It is important to note that while Article 34 dispenses with the requirement of a marriage license, all other formalities for a valid marriage under the Family Code must still be observed. These include the presence of a solemnizing officer, the marriage ceremony itself, and the registration of the marriage with the local civil registrar.</p><p>Couples considering marriage under Article 34 should seek legal advice to ensure they fully comply with the requirements and to understand the implications of their marriage under this special provision.</p>

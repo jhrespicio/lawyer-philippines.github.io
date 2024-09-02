@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Recourse for Employers in Cases of AWOL Employees Demanding Settlement"
+date: 2024-09-02 18:16:40 +0800
+---
+
+<p>In the Philippines, when an employee goes AWOL (Absent Without Official Leave), employers have legal remedies under labor laws. If the employee files a complaint or demands a financial settlement, the employer can contest this based on the circumstances of the employment termination. According to the Labor Code of the Philippines, abandonment of work is considered a form of neglect of duty, which is a just cause for termination. However, employers must ensure that due process is observed, including issuing a notice to explain the absences and conducting a proper investigation. If the employee contests the termination and files a claim for financial settlement, the employer can present evidence of abandonment and any prior warnings or notices given to the employee. It is advisable for employers to document all communication and actions taken regarding the employee's unauthorized absences. Legal counsel can assist in navigating the labor dispute resolution process, whether through the National Labor Relations Commission (NLRC) or other relevant bodies.</p>
