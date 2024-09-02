@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Free Legal Assistance and Services from DOLE in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>The Department of Labor and Employment (DOLE) in the Philippines offers free legal assistance and services to workers, particularly those who cannot afford to hire a private lawyer. These services are provided through DOLE’s various programs and offices, including the Public Assistance and Complaints Desk and the Bureau of Labor Relations.</p><p>Workers who need legal assistance can avail themselves of DOLE’s services for matters such as labor disputes, unfair dismissal, wage claims, and other employment-related concerns. The services include legal advice, mediation, and assistance in filing complaints with the appropriate labor tribunals. In some cases, DOLE can also provide representation in hearings before the National Labor Relations Commission (NLRC).</p><p>To access these services, workers can visit the nearest DOLE office or contact their hotline. It’s important to provide all relevant documents and information to facilitate the legal process. DOLE’s legal assistance is an invaluable resource for workers who need support in protecting their rights and ensuring fair treatment in the workplace.</p>

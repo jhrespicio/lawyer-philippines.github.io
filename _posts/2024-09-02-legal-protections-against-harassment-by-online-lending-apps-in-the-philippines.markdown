@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Protections Against Harassment by Online Lending Apps in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>In recent years, there has been a growing concern in the Philippines over the aggressive and often illegal collection practices of some online lending apps. These practices include harassment, threats, and public shaming, which are clear violations of the borrower's rights. The Bangko Sentral ng Pilipinas (BSP) and the National Privacy Commission (NPC) have issued guidelines and regulations to protect borrowers from such abusive practices.</p><p>Under the Philippine Data Privacy Act (Republic Act No. 10173), lenders are prohibited from sharing a borrower’s personal information without consent. Harassment and intimidation are also prohibited under the Revised Penal Code and other relevant laws. Borrowers who experience such harassment can file a complaint with the NPC, the Securities and Exchange Commission (SEC), or even take legal action against the lending company.</p><p>To protect yourself, document all instances of harassment, including screenshots of messages, recordings of calls, and copies of social media posts. This evidence will be crucial when filing a complaint or pursuing legal action. It is also advisable to seek legal assistance to explore your options and ensure that your rights are upheld.</p>

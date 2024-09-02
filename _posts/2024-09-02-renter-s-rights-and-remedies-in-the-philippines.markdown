@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Renter's Rights and Remedies in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>Renting a property in the Philippines comes with specific rights and obligations for both landlords and tenants. Tenants have the right to a habitable living space, which means the property should be free from significant defects that could affect health and safety, such as cockroaches, foul odors, and unsanitary conditions. Under the Rent Control Act of 2009 (Republic Act No. 9653), landlords are obligated to maintain the premises in a condition fit for human habitation and to make necessary repairs, except when the disrepair is due to the tenant’s own misuse or negligence.</p><p>If a rented property is found to be in poor condition, tenants have several remedies. They can request the landlord to make the necessary repairs or improvements to meet acceptable living standards. If the landlord fails to address these issues, tenants may have the right to terminate the lease without forfeiting their deposit. Additionally, tenants can file a complaint with the Housing and Land Use Regulatory Board (HLURB) or pursue legal action if necessary.</p><p>It is crucial for tenants to secure a written contract that clearly outlines the terms and conditions of the rental agreement, including any agreements on the condition of the property. A receipt should always be requested for any payments made to ensure there is a record of the transaction.</p>

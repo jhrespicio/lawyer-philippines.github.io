@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Extrajudicial Settlement of Estate in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>Extrajudicial settlement is a process by which the heirs of a deceased person can settle the estate without going through the lengthy court procedures. In the Philippines, this is possible when the deceased has left no will, and there are no debts, or if there are, the heirs agree to assume responsibility for them. The procedure is governed by the Rules of Court and applicable civil laws.</p><p>To initiate an extrajudicial settlement, the heirs must execute a document called the 'Deed of Extrajudicial Settlement of Estate.' This document must be notarized and should include the names of all the heirs, a description of the properties left by the deceased, and the agreement on how these properties will be divided. After the deed is notarized, it must be published in a newspaper of general circulation once a week for three consecutive weeks to inform creditors and other potential heirs.</p><p>Following the publication, the heirs must pay the estate tax, which is a prerequisite to the transfer of property titles. Once the taxes are paid, the properties can be transferred to the heirs according to the agreement in the deed. It's advisable to consult a lawyer to ensure compliance with all legal requirements.</p>

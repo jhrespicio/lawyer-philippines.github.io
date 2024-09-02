@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Probationary Employment: Legal Guidelines on Non-Regularization in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>In the Philippines, probationary employment serves as a trial period for both the employer and the employee to assess each other’s suitability. According to the Labor Code, the probationary period should not exceed six months from the date the employee started working, unless the nature of the work justifies a longer period, which must be agreed upon by both parties.</p><p>During the probationary period, the employer has the right to evaluate the employee’s performance, and if the employee does not meet the standards set for regularization, the employer may decide not to regularize the employee. However, the law requires that the employee be informed of their non-regularization within a reasonable time before the end of the probationary period. This notice should be in writing, stating the reasons for non-regularization.</p><p>If the employer fails to provide this notice or if the reasons for non-regularization are unjust, the employee may be considered a regular employee by default. This can lead to legal disputes, where the employer may be required to reinstate the employee or pay damages. It is essential for both employers and employees to understand their rights and responsibilities during the probationary period to avoid potential conflicts and ensure a fair working relationship.</p>

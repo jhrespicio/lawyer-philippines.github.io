@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Handle Site Visits from Collection Agencies in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>In the Philippines, being visited by a collection agency can be a stressful experience, especially if you are unfamiliar with your rights and obligations. It is important to understand that while collection agencies have the right to collect debts, they must do so in accordance with the law. The primary law governing debt collection practices in the Philippines is the <em>Fair Debt Collection Practices Act</em> (RA 3765). This law mandates that collectors must not engage in unfair, deceptive, or abusive practices.</p><p>If a collection agent visits you, you are not obligated to allow them into your home. You can request that any discussions be conducted in writing or in a public place if you feel uncomfortable. Additionally, collection agents are prohibited from harassing you, threatening you with violence, or using obscene language. They are also not allowed to misrepresent themselves as law enforcement officials or government agents.</p><p>It is advisable to keep records of all communications with collection agencies, including written correspondence and details of any visits. If you believe that a collection agency is violating your rights, you may file a complaint with the National Privacy Commission (NPC) or seek legal assistance. Understanding your rights can help alleviate the fear and anxiety associated with site visits from collection agencies.</p>

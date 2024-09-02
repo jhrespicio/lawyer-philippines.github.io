@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Middle Name Use in Birth Certificates for Illegitimate Children in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>In the Philippines, the naming conventions for illegitimate children on birth certificates have specific legal guidelines. Typically, an illegitimate child uses the surname of the mother as both the middle name and last name. This practice is based on the Family Code of the Philippines and related jurisprudence. However, if the father of the child acknowledges paternity, either through an affidavit of acknowledgment or by signing the birth certificate, the child may use the father's surname as the last name. The issue of whether the middle name should be retained or removed can arise, especially when the father's surname is used as the last name. According to legal interpretations, if the child uses the father's surname, the middle name should reflect the mother's surname. The purpose of this naming convention is to preserve the maternal lineage in the child's name. Any changes to the middle name or surname on the birth certificate would typically require a court order, especially if it involves altering the legal identity of the child.</p>

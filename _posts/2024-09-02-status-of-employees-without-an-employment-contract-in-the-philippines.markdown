@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Status of Employees Without an Employment Contract in the Philippines"
+date: 2024-09-02 18:50:59 +0800
+---
+
+<p>In the Philippines, the absence of a written employment contract does not necessarily deprive an employee of their rights or status under the law. The Labor Code of the Philippines recognizes an employer-employee relationship based on the actual circumstances of the employment, regardless of whether a formal contract exists.</p><p>For probationary employees, their status is defined by the nature of their employment, the expectations set by the employer, and the period of probation, which typically lasts for six months. If a probationary employee continues to work beyond the probationary period without any action from the employer, they may be considered a regular employee by default.</p><p>Regular employees enjoy security of tenure, meaning they cannot be dismissed without just or authorized cause and due process. Employers are advised to provide written contracts to clearly define the terms and conditions of employment, but the absence of such a contract does not negate the employee’s rights under the Labor Code.</p><p>Probationary employees who find themselves in a situation without a written contract should seek advice from the Department of Labor and Employment (DOLE) or legal counsel to understand their rights and the best course of action.</p>
