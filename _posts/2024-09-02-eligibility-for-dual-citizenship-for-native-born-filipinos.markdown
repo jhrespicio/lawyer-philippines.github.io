@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Eligibility for Dual Citizenship for Native-Born Filipinos"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Dual citizenship in the Philippines is a legal status wherein a person is recognized as a citizen of two countries simultaneously. Under Republic Act No. 9225, also known as the Citizenship Retention and Re-acquisition Act of 2003, natural-born Filipinos who have acquired foreign citizenship can retain or re-acquire their Filipino citizenship. However, this law primarily applies to those who were natural-born citizens of the Philippines before acquiring foreign citizenship.</p><p>For individuals who were born in the Philippines but did not acquire Filipino citizenship, such as those who only held a foreign passport from birth, the situation differs. To be eligible for dual citizenship, the person must first establish their Filipino citizenship, typically by proving that at least one parent was a Filipino citizen at the time of their birth. If the individual can demonstrate this, they may apply for recognition as a Filipino citizen, after which they can retain their existing citizenship and be recognized as a dual citizen. This status confers several rights and privileges, including the right to vote, own property, and engage in business in the Philippines, while also retaining the benefits of their foreign citizenship.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Case for Cyber Bullying or Oral Defamation in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Cyberbullying and oral defamation are significant issues in the Philippines, both of which can be grounds for legal action. Cyberbullying involves the use of technology to harass, threaten, or embarrass an individual, often through social media platforms or other online channels. In the Philippines, Republic Act No. 10175, also known as the Cybercrime Prevention Act of 2012, specifically addresses cyberbullying, making it punishable by law. Victims can file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP) Cybercrime Division, providing evidence of the bullying, such as screenshots or recordings. On the other hand, oral defamation, known as slander in legal terms, involves making false spoken statements that harm a person's reputation. This offense is covered under Articles 358 and 359 of the Revised Penal Code. To file a case, the victim must go to the Office of the City or Provincial Prosecutor and submit a sworn affidavit along with any evidence of the defamation. It is important to note that both cyberbullying and oral defamation are taken seriously in the Philippines, and the legal system provides avenues for victims to seek justice and protection.</p>

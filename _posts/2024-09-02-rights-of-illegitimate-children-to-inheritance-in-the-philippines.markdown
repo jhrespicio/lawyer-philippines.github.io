@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Rights of Illegitimate Children to Inheritance in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>In the Philippines, an illegitimate child is entitled to certain rights, particularly regarding inheritance. Under the Family Code and Civil Code, illegitimate children are entitled to inherit from their biological parents, but they are only entitled to half of what a legitimate child would receive. This right is inalienable, meaning it cannot be taken away by any other party, including the legal spouse of the parent. If a legal wife refuses to give the share of the illegitimate child, legal action can be taken to enforce this right. The illegitimate child may need to file a case for the enforcement of their inheritance rights, ensuring that they receive their proper share of the estate.</p><p>It’s important to note that the illegitimate child’s right to inherit is solely from the biological parent, not from the spouse or other relatives of the parent. The child can also claim support from the parent during the parent's lifetime, but this support must be properly determined and formalized through legal proceedings, if necessary. In cases where disputes arise, it is advisable to consult with a lawyer who specializes in family law to ensure that the rights of the child are protected.</p>

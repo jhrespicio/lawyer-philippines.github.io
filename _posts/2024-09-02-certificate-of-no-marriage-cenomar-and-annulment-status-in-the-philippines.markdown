@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Certificate of No Marriage (CENOMAR) and Annulment Status in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>A Certificate of No Marriage (CENOMAR) is a document issued by the Philippine Statistics Authority (PSA) that certifies an individual has not contracted any marriage within the Philippines. This certificate is often required for various legal and personal transactions, such as applying for a marriage license or verifying one’s marital status.</p><p>When a marriage is annulled in the Philippines, the annulment must be recorded with the local civil registry and then forwarded to the PSA for the changes to be reflected in public records. Once an annulment is finalized and the records are updated, the CENOMAR will no longer indicate the previous marriage. Instead, it may reflect the annulled status, depending on how the PSA updates their records.</p><p>Individuals who are concerned about their marital status after an annulment should request a new CENOMAR from the PSA. This updated CENOMAR will indicate whether the annulment has been recorded properly. If the annulment is not yet reflected, it may be necessary to follow up with the local civil registry or the PSA to ensure that all documentation has been processed correctly. This process is crucial for those who wish to remarry or need proof of their single status for legal purposes.</p>

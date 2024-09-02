@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Fast Acquisition of PSA Birth Certificate for Dual Citizenship Filing"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Obtaining a Philippine Statistics Authority (PSA) birth certificate is an essential step for various legal processes in the Philippines, including the application for dual citizenship. For those in a hurry, several options are available to expedite the process.</p><p>The PSA offers online services through its official website, where you can request a copy of your birth certificate and have it delivered directly to your home. This method is convenient and generally faster than going through the traditional in-person application. Processing times for online applications typically range from three to five working days within Metro Manila, although it may take longer for provincial addresses.</p><p>If immediate processing is necessary, you can visit the nearest PSA Serbilis Center. Some centers offer express services where documents can be released on the same day or within 24 hours, depending on the demand and the center’s capacity. However, it's essential to inquire in advance as not all centers provide this option.</p><p>Once you have obtained the PSA birth certificate, you can proceed to the Bureau of Immigration to file for dual citizenship. It is recommended to ensure all other documentary requirements are prepared to avoid delays in the application process.</p>

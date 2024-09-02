@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Parental Obligation to Support an Adult Child in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Under Philippine law, parents are obligated to support their children. However, the obligation to provide support is not absolute, particularly when the child reaches the age of majority, which is 18 years old in the Philippines.</p><p>Support is defined under the Family Code as everything indispensable for sustenance, dwelling, clothing, medical attendance, education, and transportation. Once a child becomes an adult, the parent’s obligation to provide support generally diminishes, especially if the adult child is physically and mentally able to support themselves.</p><p>However, there are exceptions to this general rule. If the adult child is unable to support themselves due to a disability or other valid reasons, the parents may still be required to provide support. The amount and duration of support depend on the child’s needs and the financial capacity of the parents.</p><p>Any disputes regarding the obligation to support an adult child can be brought before the court, where a judge will determine whether the parent’s obligation should continue based on the specific circumstances of the case.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Non-Payment of Invoice Complaint with the Barangay"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>In the Philippines, the Barangay Justice System serves as the primary mechanism for resolving disputes at the community level, including matters related to the non-payment of invoices. If a party fails to pay an invoice, the aggrieved party may seek to file a complaint with the Barangay where the transaction occurred or where the debtor resides. The Barangay officials, particularly the Barangay Captain, are empowered to mediate disputes through the Lupong Tagapamayapa, a body established to facilitate amicable settlements.</p><p>To initiate the process, the complainant must submit a formal complaint detailing the issue, including the specifics of the transaction, the amount owed, and any attempts made to resolve the matter privately. The Barangay will then summon both parties to a mediation hearing. During this process, the Barangay officials will encourage a mutually agreeable resolution. If the parties reach an agreement, it is documented and signed, making it binding. However, if the dispute remains unresolved, the complainant may be issued a Certificate to File Action, allowing them to pursue the case in the proper court. The Barangay mediation process is a cost-effective and community-based approach to resolving minor disputes, including non-payment of invoices.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Aspects of Representing Relatives in Property Transactions in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Representing relatives in property transactions is a common practice in the Philippines, especially for those who are overseas or unable to attend to the transaction personally. However, it is essential to understand the legal requirements and implications of acting on behalf of another person in such matters.</p><p>Under Philippine law, a Special Power of Attorney (SPA) is required for one person to legally represent another in property transactions. The SPA must be notarized and specify the authority granted, including the ability to buy, sell, mortgage, or lease property. It is also important to note that the SPA should be executed before the transaction to avoid any legal issues.</p><p>When dealing with properties that do not have a title but only a tax declaration, extra caution is advised. A tax declaration is not conclusive proof of ownership and may lead to complications. It is advisable to conduct a thorough due diligence, including verifying the property's status with the local government and ensuring that there are no encumbrances or claims against it.</p><p>Legal representation is crucial in such transactions to ensure that all legal requirements are met, and the interests of the parties involved are protected.</p>

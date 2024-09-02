@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Job Security and Performance-Based Dismissals in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>In the Philippines, the termination of regular employees must be based on just or authorized causes as stipulated in the Labor Code. Job security is a fundamental right for regular employees, and dismissals solely based on performance, such as low delivery output, must be justified by valid and documented reasons.</p><p>Just causes for termination include serious misconduct, habitual neglect of duties, fraud, or willful disobedience of lawful orders. Employers must provide due process, which includes issuing a notice to explain, conducting a fair investigation, and giving the employee an opportunity to defend themselves. A subsequent notice of termination should be provided if the decision to dismiss is upheld.</p><p>Performance issues, like low delivery output, should ideally be addressed through performance improvement plans or additional training before resorting to termination. The employer must document all efforts made to assist the employee in improving their performance. Without clear evidence of gross incompetence or neglect of duty, dismissals based solely on low performance may be considered unlawful.</p><p>Employees who believe they have been unjustly dismissed can file a complaint with the DOLE or pursue legal action for illegal dismissal. Employers should ensure that dismissals are legally sound and that all procedures adhere to the principles of fairness and due process.</p>

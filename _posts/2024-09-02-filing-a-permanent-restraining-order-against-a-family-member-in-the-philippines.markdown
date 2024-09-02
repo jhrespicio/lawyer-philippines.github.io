@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Permanent Restraining Order Against a Family Member in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>In the Philippines, individuals who are threatened or harmed by a family member have the right to seek protection through a permanent restraining order. The Anti-Violence Against Women and Their Children Act (RA 9262) provides a mechanism for victims to secure protection orders, including temporary and permanent restraining orders.</p><p>To file for a permanent restraining order, the victim must go to the Regional Trial Court (RTC) that has jurisdiction over their residence. A petition for a protection order should be filed, detailing the abuse, harassment, or threats made by the family member. The petition must be supported by evidence such as police reports, medical records, or witness testimonies.</p><p>Once the court receives the petition, it may issue a Temporary Protection Order (TPO) to provide immediate relief, which can then be followed by a Permanent Protection Order (PPO) after the court has conducted a thorough hearing. A PPO is enforceable until lifted by the court and prohibits the abuser from coming near the victim or their home, among other protective measures.</p><p>Victims are encouraged to seek legal counsel to ensure that their rights are fully protected throughout the process.</p>

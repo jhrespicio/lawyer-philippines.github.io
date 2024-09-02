@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Required Copies of Birth Certificate for Child Legitimation in the Philippines"
+date: 2024-09-02 20:28:03 +0800
+---
+
+<p>Legitimation is a legal process in the Philippines that allows a child born out of wedlock to acquire the status of a legitimate child, provided the parents were free to marry each other at the time of the child’s birth and subsequently got married. One of the essential requirements for this process is the submission of the child’s birth certificate.</p><p>Typically, at least three certified true copies of the child's birth certificate issued by the Philippine Statistics Authority (PSA) are required when filing for legitimation. These copies are needed for submission to various government agencies such as the Local Civil Registrar, the Office of the Civil Registrar General, and other relevant offices that may require the documentation.</p><p>It is advisable to obtain additional copies to avoid delays in case other institutions request them during the process. The birth certificates should be in good condition and reflect accurate details to ensure the smooth processing of the legitimation.</p><p>Consulting with the Local Civil Registrar or a legal expert can provide further guidance on the specific requirements and the steps involved in legitimation.</p>
