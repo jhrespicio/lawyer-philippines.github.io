@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Time Frame for Notifying a Probationary Employee of Non-Regularization"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>Under Philippine labor law, a probationary employee may be terminated for a just cause, authorized cause, or when he or she fails to qualify for regular employment standards set by the employer. The legal time frame for notifying a probationary employee that they will not be regularized typically falls within the probationary period itself, which is usually six months. It is crucial for employers to inform the employee before the end of this period if they do not intend to regularize them. Failure to do so may result in the automatic regularization of the employee.</p><p>The notification should be in writing and should clearly state the reasons for non-regularization. The employer must also ensure that the grounds for non-regularization are reasonable, job-related, and were communicated to the employee at the start of the probationary period. If the employee believes that the non-regularization is unjust or was not communicated within the appropriate time frame, they may file a complaint with the Department of Labor and Employment (DOLE) or seek redress through the appropriate legal channels.</p>

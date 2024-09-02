@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Process and Implications of a Hold Departure Order in the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>A Hold Departure Order (HDO) is a legal directive issued by Philippine courts to prevent individuals involved in criminal cases from leaving the country. This order is typically sought by the prosecution when there is a substantial risk that the accused might flee to avoid prosecution. The issuance of an HDO is particularly relevant in cases involving serious crimes such as estafa or illegal recruitment. An HDO can be issued even if the case has not yet gone to trial, provided there is sufficient evidence to suggest that the accused might attempt to leave the country. Once an HDO is in effect, the individual will be flagged at all exit points in the Philippines, and they will be barred from leaving until the order is lifted. To have an HDO lifted, the individual must file a motion in the court that issued the order, typically requiring a showing that they are not a flight risk or that the case has been resolved. It's important to note that merely having a case filed years ago, such as 10 years ago, does not automatically mean an HDO will be issued or is still in effect, but individuals with unresolved cases should consult legal counsel before attempting to travel abroad.</p>

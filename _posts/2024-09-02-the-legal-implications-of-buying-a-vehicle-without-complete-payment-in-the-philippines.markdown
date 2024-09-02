@@ -1,0 +1,7 @@
+---
+layout: article
+title: "The Legal Implications of Buying a Vehicle Without Complete Payment in the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>Purchasing a vehicle in the Philippines through an installment plan or partial payment arrangement is common, but it comes with specific legal implications. When buying a car from a private individual, it is crucial to formalize the agreement through a written contract. This contract should outline the payment terms, the total purchase price, the down payment made, and the conditions for the transfer of ownership documents, such as the Official Receipt (OR) and Certificate of Registration (CR).</p><p>Under Philippine law, ownership of the vehicle remains with the seller until full payment is made. The seller is not obligated to transfer the OR/CR to the buyer until the agreed payment is completed. If the buyer fails to fulfill the payment terms, the seller has the right to reclaim the vehicle, provided this right is clearly stipulated in the contract.</p><p>It is advisable for buyers to ensure that the contract is notarized to add an extra layer of legal protection. Additionally, buyers should be aware that the absence of a formal agreement may lead to disputes over ownership and payment, which could necessitate legal intervention. Both parties should adhere to the agreed terms to avoid potential conflicts.</p>

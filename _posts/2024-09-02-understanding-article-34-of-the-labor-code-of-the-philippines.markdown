@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Understanding Article 34 of the Labor Code of the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>Article 34 of the Labor Code of the Philippines focuses on the prohibition of recruitment practices that are considered deceptive, coercive, or fraudulent. Specifically, this provision aims to protect job seekers from being victimized by unscrupulous recruitment agencies or individuals who might exploit their need for employment. Under Article 34, it is unlawful for any person or entity to charge or accept any amount of money as placement fees or processing fees unless authorized by law. Moreover, the article prohibits the collection of fees for employment services or any other charges not covered by existing regulations.</p><p>Recruitment agencies are required to adhere strictly to the rules and guidelines set forth by the Department of Labor and Employment (DOLE). These regulations ensure that applicants are not burdened with excessive fees and that the recruitment process is fair and transparent. Violations of Article 34 can result in severe penalties, including fines, imprisonment, and the cancellation of the agency's license to operate. Job seekers are encouraged to report any violations to the appropriate authorities to safeguard their rights and ensure compliance with labor laws.</p>

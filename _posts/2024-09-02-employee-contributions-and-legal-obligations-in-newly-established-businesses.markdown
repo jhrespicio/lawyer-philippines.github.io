@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employee Contributions and Legal Obligations in Newly Established Businesses"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>In the Philippines, employers are legally required to remit contributions for their employees to government agencies such as the Social Security System (SSS), Philippine Health Insurance Corporation (PhilHealth), and the Home Development Mutual Fund (Pag-IBIG) from the time of the employee’s engagement. However, in cases where a business starts operations without the necessary permits and fails to remit these contributions, issues may arise regarding the retroactive payment of these contributions.</p><p>Employees are not generally liable for the employer’s failure to remit these contributions during the period when the business was operating without a permit. The responsibility to pay these arrears, including any penalties or interest, typically falls on the employer. However, if an agreement is made between the employer and employee, the latter may choose to shoulder their portion of the contribution for the unremitted period to maintain continuity in their benefits. Such agreements should be clearly documented to avoid future disputes.</p><p>It is imperative for business owners to secure all necessary permits before starting operations and to ensure compliance with labor laws, including the timely remittance of employee contributions. Failure to do so can result in legal penalties and may affect the business’s reputation and employee relations.</p>

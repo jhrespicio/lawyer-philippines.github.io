@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Entitlements Upon Resignation from Employment in the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>In the Philippines, an employee who resigns from their job is entitled to certain benefits, provided they comply with the proper procedures. According to the Labor Code of the Philippines, an employee who resigns voluntarily is required to submit a written notice to their employer at least 30 days in advance. This period allows the employer to find a replacement or make necessary adjustments in operations. If the employee fulfills this requirement, they are generally entitled to receive their last salary, 13th month pay, unused leave credits, and other monetary benefits stipulated in the employment contract or company policy. However, an employee who fails to comply with the 30-day notice requirement may forfeit certain entitlements, subject to the employer’s discretion.</p><p>It is important to note that resignation does not entitle the employee to separation pay unless it is stipulated in the employment contract or a company policy. Separation pay is typically granted in cases of involuntary termination, such as retrenchment or redundancy. Upon resignation, the employee is also responsible for returning any company property in their possession and may be required to clear any outstanding obligations with the employer.</p>

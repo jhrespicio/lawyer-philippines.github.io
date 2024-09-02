@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Regulations on Charging Fees by Recruitment Agencies in the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>In the Philippines, recruitment agencies are regulated by the Department of Labor and Employment (DOLE) to ensure that the rights of job applicants are protected throughout the employment process. According to the rules governing recruitment practices, agencies are prohibited from charging any fees to job seekers before a job order is issued or before the applicant is officially employed. This prohibition is part of broader efforts to prevent exploitation and ensure that applicants are not subjected to unnecessary financial burdens during the recruitment process.</p><p>It is important for job seekers to understand their rights under these regulations. Agencies must provide transparent information about any fees that may be legally collected, such as those related to documentation, medical examinations, or other necessary services. However, these fees can only be collected once the job order is confirmed, and only if they are reasonable and justified by actual expenses. Applicants who encounter agencies that demand upfront payments or who feel that they are being charged excessive fees should report these practices to DOLE or other relevant authorities for investigation and action.</p>

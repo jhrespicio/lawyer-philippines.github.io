@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Termination of Consultancy Contracts in the Philippines"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>In the Philippines, consultancy agreements are generally governed by the terms stipulated in the contract, alongside relevant provisions in the Civil Code of the Philippines. When it comes to terminating a consultancy contract, the terms of the contract are paramount.</p><p>If the contract is non-exclusive and specifies a notice period for termination, the parties are generally required to comply with this provision, unless there is a justifiable cause for immediate termination. A justifiable cause may include non-performance or breach of contract, where the consultant fails to deliver the expected services as agreed upon.</p><p>In cases of non-performance, the contracting party may not be legally required to provide the 30-day notice typically required for termination, especially if the contract includes a clause allowing immediate termination for cause. However, it is crucial to provide proper documentation and evidence of the non-performance to avoid potential legal disputes.</p><p>Compensation upon termination will also depend on the contract terms. If the contract specifies payment up to the notice period or includes provisions for penalties in case of non-performance, these will guide the compensation obligations. Consulting a legal professional is recommended to navigate these complexities and ensure that the termination process is handled in compliance with Philippine law.</p>

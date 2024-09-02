@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employee Rights Concerning Extended Work Hours and Late Dismissals in the Workplace"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>In the Philippines, the Labor Code sets out specific regulations regarding working hours, including provisions for overtime and the right of employees to be dismissed from work on time. Employers who consistently require employees to work beyond their regular hours without proper compensation or notice may be violating labor laws.</p><p>Employees are entitled to receive overtime pay if they work beyond the standard 8-hour workday. This overtime pay is typically calculated at 25% above the regular hourly wage, and 30% if the work is performed during a rest day or holiday. Additionally, employers must provide adequate notice if they require employees to work beyond their regular hours.</p><p>If an employee feels that they are being kept late at work unfairly or without appropriate compensation, they can file a complaint with the Department of Labor and Employment (DOLE). It is important for employees to keep records of their work hours and any communications regarding extended hours to support their claims. Employers should ensure compliance with labor laws to maintain a fair and legally sound working environment.</p>

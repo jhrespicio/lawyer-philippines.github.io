@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Separation Pay for Terminated Employees in the Philippines: A Guide"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>Separation pay is a form of compensation given to employees in the Philippines when their employment is terminated under specific circumstances. According to the Labor Code of the Philippines, separation pay is mandatory when an employee is terminated due to authorized causes such as redundancy, retrenchment, or the installation of labor-saving devices. However, it is not typically granted if the termination is due to just causes, such as serious misconduct or habitual neglect of duties. For employees in the construction industry, like in the scenario mentioned, the entitlement to separation pay depends on whether the termination was due to an authorized cause. If the termination was due to a lack of clients or business downturn, the employee may be entitled to separation pay. The amount is usually based on the length of service and the last salary received, typically one month’s salary for every year of service or half a month’s salary, depending on the cause of termination. It is advisable for both employers and employees to seek legal guidance to ensure compliance with labor laws and fair treatment during the termination process.</p>

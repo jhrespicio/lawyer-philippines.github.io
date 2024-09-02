@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legality of Temporary Allowances and Their Removal by Employers"
+date: 2024-09-02 10:15:13 +0800
+---
+
+<p>Temporary allowances are additional payments or benefits given by employers to employees for specific reasons or circumstances, such as cost-of-living adjustments, special projects, or temporary assignments. In the Philippines, the legality of these allowances and the conditions for their removal depend on the terms agreed upon by the employer and the employee, as well as any applicable company policies or collective bargaining agreements.</p><p>If an allowance is explicitly stated as temporary and subject to change or removal at the employer's discretion, the employer may legally remove it, provided they adhere to the terms of the agreement and any relevant labor laws. However, if the allowance has been consistently given over time without clear conditions regarding its temporary nature, employees may argue that it has become a part of their regular compensation, in which case its removal could be contested as a diminution of benefits, which is prohibited under Philippine labor law.</p><p>Employers should clearly communicate the temporary nature of such allowances at the outset and document any agreements or policies governing their provision and removal to avoid legal disputes.</p>
