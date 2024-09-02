@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Obligations of Heirs When the Mortgagor of a Vehicle Dies"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>When a person who has mortgaged the Official Receipt and Certificate of Registration (OR/CR) of a vehicle passes away, the obligations concerning the mortgage may be inherited by the heirs, depending on the circumstances. In the absence of a written agreement, the obligations of the heirs typically hinge on the principles of succession and debt liability under Philippine law.</p><p>Under the Civil Code of the Philippines, the heirs of the deceased may inherit both the assets and liabilities of the decedent. However, the heirs are not automatically liable for the debts of the deceased beyond the value of the inheritance they receive. This means that if the mortgage on the vehicle was a valid debt, the heirs may be required to settle it, but only to the extent of the estate's value that they inherited. The heirs should seek legal advice to understand their rights and obligations fully and to ensure that any settlements are handled properly, especially in the absence of a formal written agreement regarding the mortgage.</p><p>It is advisable for the heirs to verify the validity and terms of the mortgage. Without a written agreement, there may be challenges in enforcing or contesting the mortgage, so legal counsel is crucial in such cases to navigate the complexities of inheritance and debt liability.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Timelines for Taking Legal Action in the Philippines"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>When facing a legal issue, understanding the appropriate time frame within which to take action is crucial. In the Philippines, the period within which legal action must be initiated varies depending on the nature of the case. These periods are known as 'prescription periods' or 'statutes of limitations'.</p><p>For civil cases, such as claims for the recovery of money or property, the general prescription period is ten years from the time the right of action accrues. However, if the case involves an oral contract or a written contract with a specific term, the prescription period may be shorter, typically ranging from two to six years.</p><p>Criminal cases also have specific time frames within which charges must be filed. For serious offenses, such as those punishable by reclusion perpetua or death, the crime does not prescribe and can be prosecuted at any time. For other crimes, the prescription periods can range from 1 year to 20 years, depending on the severity of the offense.</p><p>In labor disputes, such as claims for unpaid wages or illegal dismissal, the prescription period is generally three years from the date of accrual of the cause of action. However, certain labor claims may have shorter periods.</p><p>It is essential to consult with a legal professional as soon as possible when considering legal action, as missing the prescription period can result in the loss of your right to pursue a claim.</p>

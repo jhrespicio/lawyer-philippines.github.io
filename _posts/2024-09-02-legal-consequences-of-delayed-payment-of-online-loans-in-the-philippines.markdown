@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Consequences of Delayed Payment of Online Loans in the Philippines"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>In the Philippines, borrowing money from online lending platforms has become increasingly common. However, if a borrower is unable to pay their debt on time, they may face legal consequences, including the possibility of being sued for estafa or fraud.</p><p>Estafa, under the Revised Penal Code, is a criminal offense that involves deceit or fraudulent acts leading to another person's damage. In the context of online loans, if the lender can prove that the borrower borrowed money with the intent not to pay, or if the borrower provided false information or misrepresentation during the loan process, a case for estafa could be filed.</p><p>However, mere inability to pay does not automatically constitute estafa. For a criminal case to prosper, there must be an element of fraud or deceit from the onset. Borrowers who are unable to pay on time should communicate with their lenders and attempt to negotiate a payment plan. Failure to do so might lead to collection efforts and potentially a civil case for the recovery of the debt, but not necessarily a criminal case unless fraud is involved.</p><p>It is important for borrowers to understand their rights and obligations under the law, and to seek legal advice if they are threatened with legal action by online lenders.</p>

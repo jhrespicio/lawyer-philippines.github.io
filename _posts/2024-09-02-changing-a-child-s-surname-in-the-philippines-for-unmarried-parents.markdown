@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Changing a Child’s Surname in the Philippines for Unmarried Parents"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>In the Philippines, changing a child’s surname is a legal process that involves several steps, particularly if the parents are not married. According to Republic Act No. 9255, an illegitimate child generally carries the surname of the mother. However, under certain circumstances, the child may use the father's surname, provided the father acknowledges paternity and both parents consent to the change.</p><p>If a mother wishes to change her child's surname to her own, especially when the child has been using the father's surname, she may petition the court for a change of name. The court will consider the best interests of the child and whether the change will not be detrimental to the child’s welfare.</p><p>The process typically involves filing a petition for a change of name in the Regional Trial Court. The petition must include the reasons for the change, and the court will require sufficient justification for approving the request. The court may also require the publication of the petition in a newspaper of general circulation to inform the public and allow for any objections.</p><p>It is important to consult with a lawyer who specializes in family law to navigate this process and ensure compliance with legal requirements. The lawyer can provide guidance on the necessary documents, the drafting of the petition, and representation in court proceedings.</p>

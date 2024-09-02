@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Who Pays for the Transfer of Tax Declaration When Purchasing Land in the Philippines?"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>In the Philippines, when purchasing a piece of land, several steps must be completed to transfer ownership, including the transfer of the tax declaration. The tax declaration is a document that identifies the property for tax purposes and reflects the current owner of the property as recorded by the local government unit (LGU).</p><p>Typically, the buyer shoulders the cost of transferring the tax declaration. This includes fees such as documentary stamp tax, transfer tax, registration fees, and other related expenses. These costs are usually part of the buyer's overall expenses when acquiring property, and they are required to facilitate the transfer of ownership in the records of the LGU.</p><p>The process involves several steps, including the payment of the Capital Gains Tax (if applicable) by the seller, securing a Certificate Authorizing Registration (CAR) from the Bureau of Internal Revenue (BIR), and processing the transfer with the Register of Deeds. Once these steps are completed, the buyer can then apply for the transfer of the tax declaration at the LGU's Assessor's Office.</p><p>It's important for buyers to ensure that all necessary taxes and fees are paid to avoid any legal complications in the future. Consulting with a real estate lawyer or a licensed real estate broker can provide valuable assistance in navigating this process and ensuring that all legal requirements are met.</p>

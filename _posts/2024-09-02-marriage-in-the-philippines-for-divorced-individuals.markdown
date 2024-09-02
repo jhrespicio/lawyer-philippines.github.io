@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Marriage in the Philippines for Divorced Individuals"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>In the Philippines, marriage is a legally binding contract that is strictly regulated by law. One significant issue that arises is whether a Filipino citizen who is divorced in a foreign country, such as the United States, can remarry in the Philippines.</p><p>The Philippines does not recognize divorce for Filipino citizens. However, there are exceptions to this rule. If a Filipino citizen is divorced by their foreign spouse, and the divorce is valid under the foreign spouse's national laws, the Filipino citizen can have the divorce recognized in the Philippines. This recognition is done through a judicial proceeding called 'Judicial Recognition of Foreign Divorce.'</p><p>Once the foreign divorce is recognized by a Philippine court, the Filipino spouse is legally considered single and may remarry. However, this process can be complex and typically requires the assistance of a lawyer to navigate the legal requirements and ensure the foreign divorce is properly recognized.</p><p>It is important to note that if both parties are Filipino citizens at the time of the divorce, the divorce will not be recognized in the Philippines, and neither party can remarry under Philippine law unless an annulment or declaration of nullity of marriage is obtained.</p>

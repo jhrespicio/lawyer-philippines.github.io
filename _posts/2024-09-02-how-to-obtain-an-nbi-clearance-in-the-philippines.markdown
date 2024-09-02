@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Obtain an NBI Clearance in the Philippines"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>The National Bureau of Investigation (NBI) clearance is a crucial document in the Philippines, often required for employment, travel, or other legal purposes. To obtain an NBI clearance, individuals must follow a standard procedure that involves both online and in-person steps.</p><p>The first step is to register for an account on the official NBI Clearance Online website. Once registered, the applicant must fill out the application form, providing accurate personal details and selecting the type of clearance needed. After completing the form, the applicant can schedule an appointment at the nearest NBI office for biometrics capture and payment.</p><p>On the day of the appointment, the applicant must bring valid identification and the reference number generated from the online application. At the NBI office, biometrics, including fingerprints and photographs, will be taken. If the applicant has a common name or a previous criminal record, they may be required to undergo a manual verification process, which could take longer.</p><p>Once all procedures are completed, the NBI clearance can be printed on-site or sent via email for printing. This clearance is typically valid for one year and must be renewed before it expires. It's important to note that the NBI clearance process is strictly regulated, and applicants must ensure all details provided are accurate to avoid delays.</p>

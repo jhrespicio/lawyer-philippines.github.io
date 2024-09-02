@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Steps for Employees Facing Delays in Final Pay Release"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>Employees who resign from their jobs are entitled to receive their final pay, which includes any unpaid salaries, pro-rated 13th month pay, and other benefits within a reasonable period after their resignation. In the Philippines, the Labor Code and various Department of Labor and Employment (DOLE) regulations stipulate the process and timeline for the release of final pay. If an employer fails to release the final pay within the stipulated time frame, typically 30 days, the employee has the right to demand payment and, if necessary, file a complaint with the DOLE.</p><p>When an employee is required to undergo clearance procedures, the employer must ensure that these processes are completed within a reasonable time and should not use them as a means to unjustly withhold payment. If an employee faces undue delays or non-responsiveness from their employer, they can file a complaint with the DOLE for unpaid wages and seek legal assistance to expedite the process. The law protects employees from unfair labor practices, including the improper withholding of final pay.</p>

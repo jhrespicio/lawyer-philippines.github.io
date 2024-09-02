@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Steps to Take When Scammed Online in the Philippines"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>Online scams have become increasingly prevalent, and victims of these scams have legal recourse under Philippine law. When an individual falls victim to a scam, such as purchasing a product online that turns out to be fraudulent, the first step is to document all relevant transactions, communications, and evidence of the scam.</p><p>The next step is to report the incident to the appropriate authorities. In the Philippines, the Cybercrime Investigation and Coordinating Center (CICC) and the National Bureau of Investigation (NBI) Cybercrime Division handle complaints related to online fraud. Victims can file a complaint with these agencies, providing all the documentation and evidence gathered.</p><p>The Revised Penal Code, as amended by the Cybercrime Prevention Act of 2012 (Republic Act No. 10175), criminalizes various forms of online fraud, including swindling (estafa). Under the law, those found guilty of committing cyber-related offenses face penalties such as imprisonment and fines.</p><p>Victims of online scams may also consider filing a civil case to recover the amount lost. This involves seeking damages in court, which requires a separate legal process from the criminal complaint. Consulting with a lawyer who specializes in cybercrime is advisable to ensure that the victim’s rights are fully protected and that the appropriate legal actions are taken.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Timely Payment of Unused Leave Credits After Resignation"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>In the Philippines, when an employee resigns, they are entitled to receive payment for any unused leave credits, such as sick leave (SL) and vacation leave (VL). The payment of these unused leave credits is part of the employee’s final pay, which should be released by the employer after the resignation.</p><p>The Labor Code of the Philippines does not specify an exact time frame for the release of the final pay, including payment for unused leave credits. However, it is generally expected that the final pay should be released within 30 days from the date of resignation, barring any disputes or complications. Delays in releasing the final pay may give the employee grounds to file a complaint with the Department of Labor and Employment (DOLE).</p><p>To avoid issues, it is advisable for the resigning employee to submit a written request for the computation and release of their final pay, including all accrued benefits. If the employer fails to release the final pay within a reasonable time, the employee may seek legal assistance and file a claim with the DOLE to recover their entitlements.</p><p>Employers are encouraged to process the final pay promptly to ensure compliance with labor laws and maintain good relations with departing employees.</p>

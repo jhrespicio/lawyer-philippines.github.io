@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Drafting a Special Power of Attorney (SPA) in the Philippines"
+date: 2024-09-02 18:10:50 +0800
+---
+
+<p>A Special Power of Attorney (SPA) is a legal document that grants an individual the authority to act on behalf of another person in specific matters. In the Philippines, an SPA can be drafted by the person who wishes to grant this authority, known as the principal, to another individual, known as the agent or attorney-in-fact.</p><p>The principal can personally draft the SPA, provided it contains all the necessary details, such as the full names of the principal and the agent, the specific powers being granted, and the duration of the authority. Once the SPA is drafted, it must be notarized by a notary public to make it legally binding.</p><p>Notarization involves the principal appearing before the notary public to acknowledge that the document was executed freely and voluntarily. The notary public then affixes their signature and seal to the document, making it an official public document that can be used for legal purposes.</p><p>It is important to note that certain transactions, such as selling real property, require a notarized SPA. Without notarization, the SPA may not be recognized in legal proceedings or by government agencies. Therefore, while it is possible for the principal to write the SPA themselves, the assistance of a lawyer is recommended to ensure that the document complies with all legal requirements and adequately protects the principal's interests.</p>
