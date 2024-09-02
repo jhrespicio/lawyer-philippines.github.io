@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Rights Upon Resignation Without Formal Notification"
+date: 2024-09-02 18:57:10 +0800
+---
+
+<p>Resignation from employment in the Philippines is a voluntary act by an employee, but it must be carried out in accordance with the law and company policies. Typically, employees are required to give a 30-day notice before resigning to allow for a smooth transition. Failure to provide such notice may have implications, including the forfeiture of certain benefits or being held liable for damages, particularly if the abrupt resignation causes harm to the employer.</p><p>However, if an employee resigns from a new company without formally submitting a resignation to the previous employer, they may still have rights depending on the circumstances. The employee's tenure and benefits from the previous company may not automatically transfer to the new employer unless explicitly stated in an agreement between the two companies or as provided for under labor laws.</p><p>If there are unresolved issues with the previous employer, such as unpaid benefits or other entitlements, the employee may still have a legal claim. It is advisable to consult with a labor lawyer to assess the situation and determine the appropriate course of action. Proper documentation and communication are key in asserting any claims or defending against any potential legal actions arising from the resignation.</p>

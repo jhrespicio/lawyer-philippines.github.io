@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Transferring Real Property Through Donation in the Philippines"
+date: 2024-09-02 18:57:10 +0800
+---
+
+<p>Transferring real property from a parent to a child in the Philippines can be done through a donation. This process requires a notarized deed of donation, a legal document that formalizes the transfer of ownership from the donor (father) to the donee (first-born son). The deed must be signed by the donor and the donee, and it must be notarized by a notary public to be considered valid.</p><p>In cases where the property is co-owned by the deceased mother, the father's share can be donated to the son, but the mother's share may require settlement through estate proceedings if it has not been transferred yet. The other siblings, if they are not interested in the property, may execute a waiver of rights to formally renounce their claim on the property.</p><p>Various taxes apply to the transfer of real property through donation, including the <em>donor’s tax</em>. As of the latest regulations, the donor’s tax is 6% of the property's fair market value at the time of the donation, exceeding a certain amount, if applicable. Additionally, documentary stamp tax and registration fees may be required.</p><p>To complete the transfer, the deed of donation must be registered with the Registry of Deeds, and the title to the property must be updated to reflect the donee as the new owner. This ensures that the transfer is recognized by law and that the donee has a legal title to the property.</p>

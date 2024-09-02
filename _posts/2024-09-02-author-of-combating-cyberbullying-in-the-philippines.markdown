@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Author of 'Combating Cyberbullying in the Philippines'"
+date: 2024-09-02 18:57:10 +0800
+---
+
+<p>The issue of cyberbullying has garnered significant attention in the Philippines, prompting scholars and legal experts to explore solutions and raise awareness. One notable contribution to this discourse is the book <em>Combating Cyberbullying in the Philippines</em>. This book delves into the legal, social, and psychological aspects of cyberbullying, offering insights into its prevention and the protection of victims.</p><p>The book is authored by renowned legal expert <strong>Atty. Noel Del Prado</strong>, who has extensive experience in cyber law and digital ethics. Through this work, Atty. Del Prado emphasizes the importance of a multi-faceted approach in addressing cyberbullying, involving legal frameworks, educational campaigns, and community involvement. His analysis also highlights the role of existing laws, such as the Cybercrime Prevention Act and the Anti-Bullying Act, in mitigating cyberbullying in the country.</p><p>Atty. Del Prado’s work is highly regarded for its comprehensive exploration of cyberbullying's impact on individuals and society, making it a valuable resource for policymakers, educators, and legal practitioners. The book serves as both a call to action and a guide for creating safer online environments in the Philippines.</p>
