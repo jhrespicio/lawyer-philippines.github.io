@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Property Ownership and Conjugal Status in the Philippines"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>In the Philippines, the concept of conjugal property refers to property that is jointly owned by spouses and is governed by the Family Code. When a couple gets married, the default property regime is the absolute community of property, unless they have agreed to a different arrangement, such as a prenuptial agreement that sets forth a separation of property.</p><p>Under the absolute community of property, all properties acquired before and during the marriage are considered conjugal, except for specific exclusions like properties inherited or acquired through personal gifts. This means that any property, including a house bought through a Pag-IBIG housing loan, will generally be considered conjugal property if it is acquired during the marriage, regardless of who pays for it or whose name appears on the title.</p><p>By the time the house is fully paid off, if the spouses are still married, the property will be considered part of the conjugal estate. In the event of annulment, legal separation, or death, the property will be subject to division in accordance with the law. Therefore, couples should be aware of the implications of property ownership and their marital status, and they may consider consulting legal experts to fully understand their rights and obligations under the law.</p>

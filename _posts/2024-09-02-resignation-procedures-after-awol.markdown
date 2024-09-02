@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Resignation Procedures After AWOL"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>In the context of employment in the Philippines, employees are generally expected to follow the proper procedures when resigning from their job. This typically involves submitting a written resignation letter and providing a notice period, commonly 30 days, unless a different period is specified in the employment contract. However, if an employee goes absent without leave (AWOL), especially for an extended period like two weeks, it complicates the situation. While an employee may still submit a resignation letter after going AWOL, the employer is not obligated to accept it and may consider the employee to have abandoned their position. Abandonment of work is a serious offense that could result in termination. It is crucial for employees to communicate promptly with their employers, especially if personal or professional reasons necessitate an unexpected absence. In some cases, employers may still be willing to accept a resignation, but this is at their discretion. Employees should always strive to maintain professionalism, even when leaving a job, to avoid negative repercussions on their employment record.</p>

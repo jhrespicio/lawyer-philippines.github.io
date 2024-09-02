@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legality of Non-Compete Clauses in the Philippines"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>Non-compete clauses, also known as restrictive covenants, are agreements that prevent an employee from working for a competitor or starting a similar business after leaving a company. In the Philippines, the enforceability of non-compete clauses is subject to strict scrutiny by the courts. The principle of restraint of trade is generally disfavored, and such clauses are only enforceable if they meet certain conditions. These include reasonableness in terms of time, geographic scope, and the interests being protected, such as trade secrets or confidential information. Additionally, the clause must not impose an undue burden on the employee's right to earn a living. It is important to note that non-compete clauses must be part of the original employment contract or agreed upon separately with clear consent from the employee. Attempting to enforce a non-compete clause that was not initially agreed upon, especially after the employment relationship has ended, may be considered illegal and could be challenged in court. Employers should ensure that non-compete agreements are fair, necessary to protect legitimate business interests, and clearly communicated to employees at the time of employment.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Acquiring Property Through Long-term Possession in the Philippines"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>In the Philippines, the principle of acquisitive prescription allows individuals to acquire ownership of property through continuous and uninterrupted possession over a certain period. This legal doctrine is rooted in the Civil Code, which outlines two types of prescription: ordinary and extraordinary. Ordinary prescription requires possession for ten years, while extraordinary prescription requires thirty years of possession, regardless of the legality of the original possession.</p><p>For a person to acquire ownership through prescription, the possession must be in good faith, public, peaceful, and continuous. The possessor must also treat the property as their own, exercising acts of ownership such as paying property taxes or making improvements. In cases where the land is privately owned but not titled, it is possible for the possessor to apply for judicial confirmation of their ownership through prescription, provided they meet all legal requirements.</p><p>It is important to note that the process of acquiring property through prescription can be complex, particularly when dealing with properties within a family compound or where there are existing title holders. Individuals seeking to assert ownership through prescription should consult with a legal professional to navigate the legal process and ensure that all necessary steps are taken to establish their claim to the property.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Barred Collection of Debt and Legal Remedies"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>In the Philippines, the ability of a creditor to collect a debt can be subject to various limitations, particularly when considering the statute of limitations or prescription period. Under Philippine law, an obligation to pay a debt is not indefinite. The Civil Code of the Philippines specifies that certain debts can no longer be collected after a specified period, typically ten years for written contracts and six years for oral contracts. If a creditor fails to initiate any form of collection, such as filing a lawsuit within this period, the debt may be considered prescribed, and the debtor may legally refuse to pay. However, if the creditor files a case in court or engages a collection agent within the allowable period, the prescription may be interrupted, extending the time for the creditor to collect. It's important to note that certain actions by the debtor, such as partial payment or acknowledgment of the debt, can also reset or interrupt the prescription period. Debtors and creditors should be aware of these time limits and seek legal advice to understand their rights and obligations fully.</p>

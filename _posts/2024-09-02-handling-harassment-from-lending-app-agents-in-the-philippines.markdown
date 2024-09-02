@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Handling Harassment from Lending App Agents in the Philippines"
+date: 2024-09-02 19:03:48 +0800
+---
+
+<p>The rise of digital lending platforms in the Philippines has brought about convenience for many borrowers. However, it has also led to issues related to harassment by collection agents. Borrowers who miss payments often report being harassed, shamed, or threatened by agents of lending apps. This behavior is not only unethical but also illegal under Philippine law.</p><p>The Data Privacy Act of 2012 (Republic Act No. 10173) protects individuals from unauthorized use and disclosure of their personal information. Harassment, including threats or public shaming, by lending agents can be considered a violation of this law. Additionally, the Revised Penal Code penalizes acts of grave threats, coercion, and unjust vexation, which may apply to abusive collection practices.</p><p>Borrowers subjected to harassment can file a complaint with the National Privacy Commission (NPC) or the Securities and Exchange Commission (SEC), which regulates lending companies. The Bangko Sentral ng Pilipinas (BSP) has also issued guidelines requiring lending companies to adhere to fair collection practices. Borrowers should document any harassment incidents, including screenshots and recordings, to support their complaint. Legal action can be taken to stop the harassment and seek damages for any harm caused.</p>
