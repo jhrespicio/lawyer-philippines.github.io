@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Legally Change Your Last Name to Your Father’s Name in the Philippines"
+date: 2024-09-02 20:18:20 +0800
+---
+
+<p>In the Philippines, changing your last name to your father's surname, especially if you were born out of wedlock, involves a legal process. The first step is to acknowledge paternity. Your father must execute a notarized affidavit of acknowledgment or recognition, which will be the basis for changing your surname on your birth certificate. This acknowledgment can be done at any time, but it must be registered with the Philippine Statistics Authority (PSA).</p><p>If your birth certificate is already registered under your mother’s surname, a petition for a change of name must be filed in the appropriate Regional Trial Court (RTC). The petition should include all necessary documentation, such as the acknowledgment of paternity, your birth certificate, and other relevant supporting documents.</p><p>It is crucial to seek legal assistance when filing a petition, as the process can be complex. The court will issue an order directing the publication of the petition in a newspaper of general circulation. This publication is mandatory and is intended to notify the public of the change of name.</p><p>Once the court grants the petition, the decision will be registered with the PSA, and you can request a new birth certificate reflecting your father’s surname. This process can be time-consuming and may require several months to complete. However, it is an essential step in legally adopting your father's surname.</p>

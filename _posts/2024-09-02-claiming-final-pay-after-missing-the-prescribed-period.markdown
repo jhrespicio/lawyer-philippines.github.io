@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Claiming Final Pay After Missing the Prescribed Period"
+date: 2024-09-02 20:18:20 +0800
+---
+
+<p>Under Philippine labor law, employees are entitled to receive their final pay after the termination of their employment, which typically includes any remaining salary, benefits, and other due payments. However, there is often a prescribed period within which an employee must claim their final pay.</p><p>While the Labor Code does not explicitly provide a statute of limitations for claiming final pay, general principles of law, such as the Civil Code, may apply. Under these principles, employees typically have a period of up to three years to claim unpaid wages and other benefits. If this period has lapsed, the employer may invoke the prescription of the claim as a defense.</p><p>However, extraordinary circumstances, such as the COVID-19 pandemic, may impact the enforceability of these time limits. Employees who were unable to claim their final pay due to such reasons may seek legal advice to explore the possibility of filing a claim despite the lapse of time. The Department of Labor and Employment (DOLE) and other legal channels can provide guidance on how to proceed, especially if the delay was beyond the employee’s control.</p>

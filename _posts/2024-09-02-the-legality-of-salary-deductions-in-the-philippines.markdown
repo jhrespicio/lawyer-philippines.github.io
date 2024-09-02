@@ -1,0 +1,7 @@
+---
+layout: article
+title: "The Legality of Salary Deductions in the Philippines"
+date: 2024-09-02 20:18:20 +0800
+---
+
+<p>In the Philippines, the Labor Code and various Department of Labor and Employment (DOLE) regulations govern the legality of salary deductions. Employers are not allowed to deduct from an employee’s salary without the employee’s consent, except in specific circumstances provided by law.</p><p>Permissible salary deductions without the need for employee consent include deductions for withholding taxes, SSS, PhilHealth, Pag-IBIG contributions, and other mandatory government deductions. Other deductions, such as for company loans, loss or damage to company property, or absences, must be agreed upon by the employee and must not exceed a certain percentage of the employee’s wages.</p><p>Unauthorized salary deductions are considered illegal and may constitute a violation of the employee’s rights. Employees who believe that unauthorized deductions have been made from their salary can file a complaint with the DOLE or seek assistance from their company's human resources department to resolve the issue.</p><p>To protect their rights, employees should review their payslips regularly and understand the basis for any deductions. Legal consultation may be necessary if the issue cannot be resolved internally or if the deductions are substantial.</p>
