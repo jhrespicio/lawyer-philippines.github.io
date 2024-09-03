@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Benefits You Can Receive After Resigning from a Company"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I'm planning to resign from my job. What benefits am I entitled to receive from my company?</p><p><strong>Insights:</strong><br>When you resign from a company in the Philippines, you may be entitled to certain benefits depending on your employment status and the company's policies. These benefits typically include the following:</p><ul><li><strong>Final Pay:</strong> This consists of your last salary, including any earned but unused leave credits, 13th-month pay proportionate to the months worked during the year, and any other benefits stipulated in your employment contract.</li><li><strong>Separation Pay:</strong> This is not typically granted in voluntary resignation cases unless stated in your contract or company policy. However, if resignation is due to reasons such as health issues or company-imposed changes, you may be eligible for separation pay.</li><li><strong>Retirement Benefits:</strong> If you are covered by a retirement plan and meet the eligibility requirements, you may receive retirement benefits upon resignation.</li></ul><p>It is advisable to review your employment contract and consult with your HR department to understand the specific benefits available to you. If disputes arise, seeking legal counsel can help ensure you receive what you are entitled to under the law.</p>

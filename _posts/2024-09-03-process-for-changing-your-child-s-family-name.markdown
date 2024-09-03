@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Process for Changing Your Child’s Family Name"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I want to change my daughter's family name. What is the process I need to follow?</p><p><strong>Insights:</strong><br>Changing a child's family name is a legal process in the Philippines that generally involves a petition in court. The process will vary depending on whether the child's parents are married, unmarried, or if there are other legal circumstances such as a previous acknowledgment by the father.</p><p>If the child was born to unmarried parents and carries the mother’s surname, the father can acknowledge the child and file a Joint Affidavit of Legitimation (if the parents subsequently marry), which may allow the child's surname to be changed. This is typically done through the Local Civil Registry where the birth was registered.</p><p>For other circumstances or to formally change a surname already established, a petition for change of name must be filed in court. This process requires the petitioner to present valid reasons for the change, and the court will consider the best interests of the child. The court’s decision will then be registered with the Local Civil Registry.</p><p>Consulting with a family lawyer is recommended to ensure that the petition is properly filed and supported by the necessary documents.</p>

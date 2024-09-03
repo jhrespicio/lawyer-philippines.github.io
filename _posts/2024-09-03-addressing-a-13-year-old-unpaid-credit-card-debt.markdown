@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Addressing a 13-Year-Old Unpaid Credit Card Debt"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I received a notification regarding a 13-year unpaid credit card debt. I no longer live in the Philippines, but I am concerned about the possibility of legal action since the statute of limitations might be involved. Can they still file a case against me? Also, if I settle the debt, will the statute of limitations be extended?</p><p><strong>Insights:</strong></p><p>Under Philippine law, the statute of limitations for filing a legal action to collect a credit card debt is 10 years from the time the debt became due. If more than 10 years have passed without any legal action from the creditor, the debt is considered prescribed, and the creditor may no longer file a case to collect it. However, if you acknowledge the debt or make a partial payment, the statute of limitations may be reset, giving the creditor a new 10-year period to file a claim. It is important to approach this situation carefully, as acknowledging the debt or negotiating a settlement could revive the creditor's right to sue. It is advisable to consult with a legal professional before taking any action to understand your options and protect your rights.</p>

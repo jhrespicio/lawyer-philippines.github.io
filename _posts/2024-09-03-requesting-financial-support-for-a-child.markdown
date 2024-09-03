@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Requesting Financial Support for a Child"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>The father of my eldest daughter is not providing financial support. Can you advise me on what letter or document I can send to him to formally request financial support for our daughter?</p><p><strong>Insights:</strong></p><p>In the Philippines, both parents are legally obliged to provide financial support for their children. To begin the process of requesting financial support, you may send a formal demand letter to the father, outlining his legal obligation to provide for your daughter's needs. The letter should include details of your daughter's expenses, such as education, healthcare, and basic living needs, and request a specific amount or regular financial contribution.</p><p>If the father fails to respond to or comply with the demand letter, you may proceed to file a case for child support in court. The court will assess the financial capacity of both parents and issue a support order, which legally mandates the father to provide financial support. It is advisable to consult a family law attorney to assist you in drafting the demand letter and to guide you through the legal process if necessary.</p>

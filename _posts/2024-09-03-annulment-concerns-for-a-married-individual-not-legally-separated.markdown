@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Annulment Concerns for a Married Individual Not Legally Separated"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My married cousin has not been legally separated from her husband since 2005 and has had 2-3 boyfriends, which she has posted about online. Her husband and children want to annul the marriage, but she refuses to sign the annulment papers because she wants to ensure her rights to her husband's wealth. What are her legal rights, and can the annulment proceed without her consent?</p><p><strong>Insights:</strong><br>In the Philippines, annulment can be filed on several grounds under the Family Code, including psychological incapacity and fraud. If your cousin’s husband can prove grounds for annulment, the case can proceed even without her consent. However, the court must grant the annulment, and the decision is not automatic. Regarding property rights, if the marriage is annulled, the law typically provides for an equitable division of properties acquired during the marriage. Your cousin's refusal to sign the annulment papers does not necessarily mean she will lose her rights; rather, the court will determine her entitlements based on the evidence presented. If the annulment is granted, her rights to her husband’s future wealth may be affected, but any assets acquired during the marriage could still be subject to division.</p>

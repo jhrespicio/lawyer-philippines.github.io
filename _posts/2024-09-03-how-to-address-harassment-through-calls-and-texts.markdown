@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Address Harassment Through Calls and Texts"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am being harassed through calls and text messages by someone. What legal actions can I take to stop this?</p><p><strong>Insights:</strong><br>Harassment through calls and text messages is a serious concern, and the law provides remedies to protect you. Here’s what you can do:</p><ul><li><strong>Document the Harassment:</strong> Keep a record of all harassing calls and messages, including the time, date, and content. Screenshots and call logs can serve as evidence.</li><li><strong>Block the Harasser:</strong> Use your phone’s features to block the number of the harasser. This can immediately reduce the frequency of harassment.</li><li><strong>Report to the Authorities:</strong> You can report the harassment to the local police or the National Telecommunications Commission (NTC). Harassment is punishable under the Revised Penal Code and the Anti-Cybercrime Law.</li><li><strong>File a Complaint:</strong> If the harassment persists, you may file a complaint for grave threats, unjust vexation, or cyberstalking. Your lawyer can help you draft and file the necessary legal documents.</li><li><strong>Consider a Protection Order:</strong> In severe cases, you may seek a protection order from the court to legally restrain the harasser from contacting you.</li></ul><p>Taking swift legal action is important to stop harassment and ensure your safety and peace of mind.</p>

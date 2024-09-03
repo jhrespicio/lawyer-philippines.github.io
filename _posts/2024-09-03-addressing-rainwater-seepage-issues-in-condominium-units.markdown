@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Addressing Rainwater Seepage Issues in Condominium Units"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I live in a corner unit of a condominium, and we've been experiencing rainwater seepage through the walls. The property management office has been slow to act. Should I take legal action?</p><p><strong>Insights:</strong><br>Rainwater seepage in a condominium unit is a serious concern that the property management should address promptly, as it can lead to damage and health hazards such as mold. If your property management office is not acting on the issue, taking legal action may be necessary to protect your property rights.</p><p>Initially, it is recommended to document the issue thoroughly. Take photos and videos of the seepage, and keep records of all communications with the property management office, including requests for repair and their responses.</p><p>If the management still fails to act, you can send a formal demand letter through your lawyer. This letter will outline the issue, the steps you've taken, and your demands for immediate action. If there is still no resolution, you can file a complaint with the Housing and Land Use Regulatory Board (HLURB) or pursue a civil case against the management or the condominium corporation for damages.</p><p>Consulting with a lawyer can provide you with the best course of action and ensure that your rights as a condominium owner are protected.</p>

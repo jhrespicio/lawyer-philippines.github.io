@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legality of Collecting 'Pondo' from Partner Subcontractors"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Is there a law or agreement that allows shuttle service providers to collect “pondo” from their partner subcontractors? By “pondo,” I mean the practice of paying for services rendered after 15 days to 2 months once the company leaves. Is this legal?</p><p><strong>Insights:</strong><br>The practice of collecting “pondo” or delaying payments to subcontractors for services rendered may be subject to the terms agreed upon in the contract between the parties involved. Under Philippine law, particularly the Civil Code, parties to a contract are generally free to stipulate the terms of their agreement, including payment schedules. However, such practices should not violate any existing labor laws or regulations, particularly those concerning timely payment of wages and services. If the delay in payment is unjustified or leads to unfair treatment of subcontractors, it may be challenged legally. The subcontractors can review their contracts and possibly seek legal recourse if the terms are found to be exploitative or if they violate labor standards.</p>

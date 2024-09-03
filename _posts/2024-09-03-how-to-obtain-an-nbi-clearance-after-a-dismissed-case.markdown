@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Obtain an NBI Clearance After a Dismissed Case"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>A case I was involved in was dismissed way back in 2022. I need to obtain an NBI clearance now. What is the proper procedure to follow?</p><p><strong>Insights:</strong><br>Obtaining an NBI clearance after a case has been dismissed is a process that requires proper documentation. Since your case was dismissed, the first step is to ensure that you have the necessary court documents that prove the dismissal. These documents include the court's decision or order stating that the case has been dismissed.</p><p>With these documents, you should proceed to the nearest NBI Clearance Center. During the application, if your name appears as having a record (commonly referred to as a 'hit'), you will be asked to undergo clearance verification. Present the court documents to the NBI personnel to prove that your case was dismissed.</p><p>If everything is in order, the NBI will update their records to reflect the dismissal, and you will be issued a clearance. It is advisable to start this process well before you need the clearance to avoid any delays.</p>

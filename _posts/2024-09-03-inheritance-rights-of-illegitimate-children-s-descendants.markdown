@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Inheritance Rights of Illegitimate Children’s Descendants"
+date: 2024-09-03 18:10:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>My grandfather had an illegitimate child who is now deceased. All of my grandfather’s legitimate children are also deceased. My parents left behind some land that is about to be sold, but the descendants of the illegitimate child are now claiming a share. Do they have any legal rights to the inheritance?</p><p><strong>Insights:</strong></p><p>In the Philippines, the inheritance rights of illegitimate children and their descendants are recognized under the law. While illegitimate children are entitled to inherit, their share is typically half that of legitimate children. However, once the illegitimate child passes away, their descendants (the grandchildren of the original property owner) may inherit their share, provided they are within the legal capacity to do so. Given that the legitimate children of your grandfather are all deceased, the descendants of the illegitimate child may indeed have a legal claim to a portion of the property. It would be wise to consult with a lawyer to thoroughly examine the specifics of your case, particularly the exact share each party is entitled to according to the law.</p>
