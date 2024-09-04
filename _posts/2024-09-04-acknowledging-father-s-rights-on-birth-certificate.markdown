@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Acknowledging Father's Rights on Birth Certificate"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I recently gave birth and initially did not include my child's father's name on the birth certificate because we were not on good terms at the time. Now, he wants to be acknowledged as the father. What are the legal steps we need to take to update the birth certificate?</p><p><strong>Insights:</strong></p><p>In the Philippines, when the father’s name is not included in the birth certificate, the document can still be amended to reflect his paternity. Under Republic Act No. 9255, an illegitimate child can use the surname of the father if paternity is acknowledged, which can be done in writing through an Affidavit of Acknowledgment or Recognition. This affidavit must be signed by both the mother and the father, and it should be filed with the Local Civil Registry where the birth certificate was registered.</p><p>The father should also file a petition for the correction of the entry in the birth certificate under Rule 108 of the Rules of Court. This process generally requires submitting a verified petition to the court and may involve a hearing.</p><p>It is highly advisable to consult a lawyer to guide you through the process and ensure that all legal requirements are met to amend the birth record properly.</p>

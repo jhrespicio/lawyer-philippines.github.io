@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How to Recover a Lost TIN (Tax Identification Number)"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I lost my TIN and I do not remember what it is. How can I retrieve my TIN? What are the steps to get this information back?</p><p><strong>Insights:</strong></p><p>In the Philippines, the TIN (Tax Identification Number) is a unique identifier issued by the Bureau of Internal Revenue (BIR) to individuals and businesses. If you have lost your TIN, you can retrieve it through the following methods:</p><ul><li><strong>Visit the nearest BIR office:</strong> Bring a valid ID and explain your situation. The BIR officer can retrieve your TIN from their records.</li><li><strong>Use the BIR online services:</strong> If you have access to your online BIR account, you may be able to retrieve your TIN through their online portal. If you don’t have an account, you may need to visit the BIR office for assistance.</li><li><strong>Contact the BIR hotline:</strong> You can also call the BIR hotline (BIR Contact Center at (02) 8981-8888) to request assistance in retrieving your TIN.</li></ul><p>Make sure to secure your TIN, as having multiple TINs is illegal in the Philippines. Once recovered, store it in a safe place to avoid future inconvenience.</p>

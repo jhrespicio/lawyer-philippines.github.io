@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Custody and Visitation Rights for an Unmarried Parent"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am the mother of a 15-year-old daughter. Her father and I are annulled, and we have not agreed on a schedule for his time with our daughter. He now wants to take her every Friday and return her on Sunday night. However, my daughter is in Grade 10 and often has assignments and projects during the weekends. What should be the proper agreement between us for his visitation time?</p><p><strong>Insights:</strong><br>It is crucial to prioritize the best interests of the child when determining visitation schedules. Given that your daughter is already 15 years old, her preferences may also be considered by the court. Under Philippine law, both parents are encouraged to come to a mutual agreement regarding visitation. Since your daughter is already engaged in academic responsibilities, her schedule should be a critical factor in determining visitation arrangements. You and your ex-husband could negotiate an agreement that allows him to spend time with her without disrupting her school commitments. If both parties cannot reach an agreement, a petition for child custody can be filed in family court to formalize a schedule that balances parental visitation with the child's welfare.</p>

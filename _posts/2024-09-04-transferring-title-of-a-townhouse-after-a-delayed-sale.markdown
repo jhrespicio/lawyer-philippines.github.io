@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Transferring Title of a Townhouse After a Delayed Sale"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I bought a townhouse in St. Monique, Rizal, but the title remains under the original owner's name. My brother, who was supposed to assist with the title transfer, has since moved abroad and is unresponsive. It has been over five years, and I want to sell the property. Can you help me with the transfer, and how do we arrange a meeting?</p><p><strong>Insights:</strong></p><p>It is essential to finalize the transfer of the property title to your name before you can proceed with the sale. Delays in title transfers often occur when required documents are incomplete or not processed in a timely manner. Since your brother is unresponsive, you may need to proceed without his assistance. You will need to gather all the necessary documents, including the deed of sale, tax declarations, and payment receipts for any applicable taxes or fees. A lawyer or a real estate professional can assist with the title transfer by liaising with the relevant government offices, such as the Registry of Deeds and the Bureau of Internal Revenue. You can set up an appointment by contacting a law office or real estate service provider with expertise in property transactions, and they can guide you through the next steps, including the review of documents and scheduling of necessary appointments.</p>

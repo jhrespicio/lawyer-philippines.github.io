@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Changing a Minor's Last Name in the Philippines"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>We are considering changing the last name of a child who has not had any contact with her birth father since she was 2 years old. The child’s mother has been the sole supporter since then. I have been supporting the child and will continue to do so until she graduates from college. Is there a way to legally change the child’s last name to mine? If so, what are the requirements and costs?</p><p><strong>Insights:</strong><br>In the Philippines, changing a minor’s surname can be done through a court petition for a change of name. The absence of the biological father’s involvement and your continuous support of the child may be relevant factors in the court’s decision. The court may also consider the child’s best interests, including emotional and social factors. The process typically involves filing a petition with the Regional Trial Court, and the cost varies depending on legal fees, publication requirements, and court filing fees. You may need to provide proof of the birth father's absence and financial support records. Consulting a local family law attorney will help you understand the detailed process and costs.</p>

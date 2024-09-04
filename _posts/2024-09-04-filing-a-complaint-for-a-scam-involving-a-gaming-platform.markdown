@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Complaint for a Scam Involving a Gaming Platform"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I participated in an online gaming platform that turned out to be a scam. I deposited money and followed their withdrawal instructions, but I cannot withdraw my winnings. How can I file a complaint to recover my funds?</p><p><strong>Insights:</strong><br>If you have been scammed by an online platform, you can take the following legal actions in the Philippines:<br><ul><li><strong>Report to the National Bureau of Investigation (NBI):</strong> You can file a complaint with the NBI's Cybercrime Division. You will need to provide details such as screenshots of the transactions, communications with the platform, and any other evidence showing that the platform failed to deliver on its promises.</li><li><strong>File a Complaint with the Department of Trade and Industry (DTI):</strong> The DTI also handles complaints regarding online transactions, especially if there are violations of consumer protection laws.</li><li><strong>Philippine National Police Anti-Cybercrime Group (PNP-ACG):</strong> Another option is to file a report with the PNP's Anti-Cybercrime Group, particularly for internet-based scams.</li></ul><p>It is also advisable to consult with a lawyer who specializes in cybercrime cases to help guide you through the process and maximize your chances of recovering your funds.</p>

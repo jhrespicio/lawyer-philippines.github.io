@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Resigning Due to Work-Related Stress and Immediate Resignation Policies"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I recently resigned from my job without prior notice due to stress from the work environment and workload. I informed HR that I will not be reporting to work anymore, and they mentioned that if I don’t return, they will consider me absent without leave (AWOL) until I am terminated. I also plan to return the company assets. Will this affect my final pay and certificate of employment (COE)?</p><p><strong>Insights:</strong><br>In the Philippines, while it is a general rule that employees must provide at least 30 days' notice before resignation (as per Article 300 of the Labor Code), resignation without notice is allowed for justifiable reasons such as serious health concerns, including work-related stress if properly documented. You should inform your employer formally in writing and support your claim of stress, ideally with medical documentation. Failure to give notice might affect your final pay or issuance of the certificate of employment, as the employer may consider you as having abandoned your post. However, returning company assets, as you mentioned, demonstrates good faith and might help facilitate the release of your final pay, including your prorated 13th-month pay, and COE.</p>

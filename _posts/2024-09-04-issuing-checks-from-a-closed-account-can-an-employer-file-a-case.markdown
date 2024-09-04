@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Issuing Checks from a Closed Account: Can an Employer File a Case?"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My former employer is threatening to file a case against me because I issued checks from an account that I did not realize was closed. I immediately informed them of the situation and promised to replace the checks within a week. However, they still intend to deposit the checks. Can they legally file a case against me for this situation?</p><p><strong>Insights:</strong><br>In the Philippines, issuing a check from a closed account may result in liability under the Bouncing Checks Law (BP 22). The fact that you informed your former employer and offered to replace the checks may serve as mitigating factors, but it does not erase the legal implications of issuing the checks in the first place. The act of issuing a check from a closed account is penalized, regardless of intent. However, if you act promptly and replace the checks before they are deposited or bounce, this could help resolve the matter. If your employer still chooses to pursue legal action, you may face both civil and criminal liabilities. It is essential to consult with a lawyer to take immediate steps to remedy the situation and avoid further complications.</p>

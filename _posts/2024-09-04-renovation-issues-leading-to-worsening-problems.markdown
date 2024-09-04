@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Renovation Issues Leading to Worsening Problems"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I hired a contractor to renovate my house last year, but several issues have persisted since then. Although the contractor is attempting to fix the problems, the situation seems to be getting worse. What legal options do I have to resolve this issue?</p><p><strong>Insights:</strong><br>Under Philippine law, contractors are obligated to perform construction and renovation work according to the standards specified in the contract. If the work performed is substandard or if the contractor's attempts at correction are causing further issues, you may have grounds to file a complaint under the Civil Code for breach of contract. Depending on the circumstances, you may be entitled to demand rectification of the defects, a reduction in payment, or even termination of the contract with damages. It is advisable to document all communication and issues, and seek legal assistance to mediate or file a case, if necessary. The contractor may also be liable under consumer protection laws if the work falls below accepted standards of quality and safety.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Difference Between Evidence in Civil and Criminal Cases"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Can you explain the difference between evidence in civil cases and evidence in criminal cases? What are the key distinctions in how evidence is handled in these types of cases?<br><strong>Insights:</strong><br>The primary difference between evidence in civil and criminal cases lies in the burden of proof and the type of evidence required. In civil cases, the burden of proof is typically 'preponderance of evidence,' meaning that the plaintiff must prove that it is more likely than not that the defendant is liable. In criminal cases, the burden of proof is 'beyond a reasonable doubt,' which is a higher standard as it requires the prosecution to prove the defendant's guilt with near certainty.<br>Another key difference is the objective of the case. Civil cases focus on resolving disputes between individuals or entities, often involving compensation or specific performance. In contrast, criminal cases aim to punish illegal behavior that is harmful to society. As a result, evidence in criminal cases is often subject to stricter rules of admissibility and chain of custody requirements to ensure due process is followed.</p>

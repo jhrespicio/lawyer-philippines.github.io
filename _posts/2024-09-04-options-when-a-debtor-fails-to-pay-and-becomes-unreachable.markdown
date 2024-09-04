@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Options When a Debtor Fails to Pay and Becomes Unreachable"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>The person who owes me money has failed to pay for two months, and she has become unresponsive. I tried delivering a demand letter, but the address I have for her is no longer valid. What should I do next?</p><p><strong>Insights:</strong></p><p>When a debtor is unreachable and fails to make payments, your first recourse should be to ensure you have done due diligence in delivering a formal demand for payment. Since the address is no longer valid, attempt to locate the debtor through alternative means such as contacting known acquaintances, social media, or public records. If you are unable to establish contact, you may proceed with filing a case in the Small Claims Court, provided your claim falls within its jurisdiction. The court can issue a summons to the debtor’s last known address or other locations where the debtor might be found. If the court grants your claim, a judgment will be issued in your favor, and you can enforce it through various legal remedies such as garnishment of wages or bank accounts, depending on the circumstances.</p>

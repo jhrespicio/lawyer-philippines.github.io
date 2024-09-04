@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Penalties for Late Business Registration with the BIR"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I want to ask if there is any penalty for late registration of a business with the Bureau of Internal Revenue (BIR). How does this affect my business?</p><p><strong>Insights:</strong><br>In the Philippines, failure to register a business on time with the BIR results in penalties. The BIR requires that businesses register within 30 days from the date of commencement. The penalties for late registration can vary but typically include the following:<br><ul><li><strong>Late Registration Fine:</strong> A fixed penalty, which may range from Php 1,000 to Php 50,000 depending on the scale of the business and the nature of the violation.</li><li><strong>Compromise Penalties:</strong> These are additional fines that the BIR may impose as a settlement option to avoid more severe legal action.</li><li><strong>Surcharges and Interest:</strong> Businesses that fail to file their tax returns on time due to late registration may also face surcharges (25% of the unpaid tax) and interest (12% annually).</li></ul><p>It is crucial to comply with registration and filing requirements to avoid further complications or audits from the BIR.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Reviving an Existing TIN in the BIR System"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I have an existing TIN with the Bureau of Internal Revenue (BIR) but I’m having trouble reviving it. I’ve applied online multiple times, but every attempt to submit the application failed, and the system didn’t save my progress. I’ve been trying this for four days. What can I do to resolve this issue?</p><p><strong>Insights:</strong></p><p>The first step is to ensure that you are using the correct online system or portal designated by the BIR for updating your TIN. Technical issues such as system downtime can often delay applications, so check for any announcements on the BIR website regarding system maintenance or upgrades. You may also try using different browsers or devices to complete the submission. If the issue persists, it is advisable to visit the nearest BIR office or contact their helpline to address the issue in person. Bringing supporting documents, such as your old TIN card and government-issued IDs, could expedite the process. The BIR may also provide you with an alternative submission method, such as email or in-office submission, especially if the online system is malfunctioning.</p>

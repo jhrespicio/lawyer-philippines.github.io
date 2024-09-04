@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Concern Regarding Unpaid Last Pay and Unremitted Benefits"
+date: 2024-09-04 16:32:23 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I plan to file a formal complaint against my previous employer because they have not released my last pay. Additionally, I discovered that they have not been remitting my statutory benefits since January 2023. What legal steps can I take to resolve this issue?</p><p><strong>Insights:</strong><br>Under Philippine labor laws, employers are required to release the last pay of an employee, including any outstanding salary, 13th-month pay, and unused leave credits, within a reasonable period after the employment relationship ends. Additionally, the failure to remit statutory benefits, such as Social Security System (SSS), PhilHealth, and Pag-IBIG contributions, constitutes a violation of labor standards and may expose the employer to administrative and criminal liability. You may file a complaint with the DOLE or the relevant government agencies, such as SSS, PhilHealth, and Pag-IBIG, to demand your benefits and hold your employer accountable. If necessary, you can pursue a case for illegal withholding of wages and benefits.</p>
