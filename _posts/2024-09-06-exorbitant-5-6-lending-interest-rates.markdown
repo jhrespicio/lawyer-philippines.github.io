@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Exorbitant 5-6 Lending Interest Rates"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>There is a person in our community lending money under a 5-6 scheme, with an interest rate of 40% per month. This seems extremely excessive. What legal steps can be taken to stop this practice? Thank you.</p><p><strong>Insights:</strong><br>The 5-6 lending practice, characterized by extremely high interest rates, is considered illegal under Philippine law. The Anti-Usury Law (Act No. 2655) prohibits charging exorbitant interest rates. While the law has been liberalized, excessive interest rates that exploit borrowers can still be challenged in court under the principles of fairness and justice.<br>If you or others in the community are affected by this scheme, you may file a complaint with the Department of Trade and Industry (DTI) or the Securities and Exchange Commission (SEC) if the lender is engaged in the lending business without proper registration. You may also seek help from local law enforcement to investigate and stop predatory lending practices.<br>It's advisable to consult a lawyer to understand the full scope of legal actions that can be taken and to ensure protection from further exploitation.</p>

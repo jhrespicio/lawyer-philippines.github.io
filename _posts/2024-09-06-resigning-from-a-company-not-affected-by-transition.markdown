@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Resigning from a Company Not Affected by Transition"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>Is it possible to not retain my position in a company that is undergoing a transition, even if I am not directly affected by this change? What are the benefits I am entitled to if I choose to resign?</p><p><strong>Insights:</strong></p><p>If you choose not to stay with a company during a transition, even though you are not directly affected by the changes, you have the right to voluntarily resign. In the Philippines, voluntary resignation does not entitle an employee to separation pay unless it is specified in the company policy or employment contract.</p><p>However, upon resignation, you are entitled to receive your final pay, which includes the following:</p><ul><li>Unpaid salaries up to the last working day.</li><li>Pro-rated 13th-month pay.</li><li>Payment for unused service incentive leave credits, if applicable.</li></ul><p>Depending on the terms of the company’s policy or any agreements, you might also be entitled to other benefits such as bonuses or other incentives.</p><p>It is important to carefully review the terms and conditions of your employment contract and company policies before making any decisions, and consulting with a labor lawyer can help clarify your rights.</p>

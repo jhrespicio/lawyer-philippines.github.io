@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employer Threatening Dismissal for Absences Without Minimum Wage"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My employer has told me that I will be terminated soon because I have been absent for some time. I have been working for this company for about three years, but they do not pay the minimum wage. Can I still be dismissed, and what can I do about the wage issue? Thank you.</p><p><strong>Insights:</strong><br>Under Philippine labor laws, employees have the right to security of tenure, meaning that they cannot be dismissed without just or authorized cause. However, frequent absences without valid reason can be considered a valid ground for dismissal under just causes like gross and habitual neglect of duties.<br>Concerning the issue of wages, employers are mandated by law to pay at least the minimum wage, depending on the region's wage order. If you have been receiving less than the minimum wage, you may file a complaint with the Department of Labor and Employment (DOLE). DOLE can investigate and ensure that you receive the correct compensation, including back pay for any wage discrepancies.<br>It is advisable to seek legal counsel to ensure your rights are protected in both the dismissal and wage concerns.</p>

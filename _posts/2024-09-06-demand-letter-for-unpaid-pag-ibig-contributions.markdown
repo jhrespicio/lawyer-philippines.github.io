@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Demand Letter for Unpaid PAG-IBIG Contributions"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I recently received a demand letter from PAG-IBIG asking for contributions. I run a hardware store with a few employees working on a daily basis. Although I provided them with SSS benefits, I did not enroll them in PAG-IBIG, and I also did not contribute for myself. I have not taken any loans from PAG-IBIG either, so I am confused about why I am being asked to pay fines and penalties. Could you help clarify this matter?<br><strong>Concerned Business Owner</strong></p><p><strong>Insights:</strong><br>Under Philippine law, all employers are required to register their employees with the Home Development Mutual Fund (HDMF), commonly known as PAG-IBIG. This is mandated by Republic Act No. 9679 (PAG-IBIG Fund Law of 2009). Regardless of whether an employee works on a daily, part-time, or full-time basis, as long as there is an employer-employee relationship, PAG-IBIG contributions must be remitted. The penalties imposed are due to non-compliance with the mandatory contribution requirements, not the existence of a loan. The employer is liable for both their own and their employees' contributions, as well as any penalties for late or missing payments. It is advisable to settle this matter as soon as possible to avoid further accrual of penalties and to ensure compliance with the law.</p>

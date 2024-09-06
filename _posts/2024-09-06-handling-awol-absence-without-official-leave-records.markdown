@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Handling AWOL (Absence Without Official Leave) Records"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I would like to know how I can rectify my AWOL status in my employment records. I had to leave my job unexpectedly and now I am worried about the consequences on my employment history. Is there a way to address this and clear my record?</p><p><strong>Insights:</strong><br>Absence Without Official Leave (AWOL) is typically considered a serious offense in the workplace and can impact your employment record. To rectify this, it’s important to communicate with your employer as soon as possible and explain the circumstances surrounding your absence. In some cases, employers may be willing to amend the record if there were justifiable reasons, such as personal emergencies or health issues. If this is not possible, you can seek assistance from the National Labor Relations Commission (NLRC) or DOLE for mediation, especially if the AWOL was caused by an unfair labor practice. Moving forward, ensure to secure a clearance or settle any pending obligations with your previous employer to avoid complications when seeking new employment.</p>

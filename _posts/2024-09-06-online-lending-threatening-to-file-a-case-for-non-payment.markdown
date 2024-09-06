@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Online Lending Threatening to File a Case for Non-Payment"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I am 5 days overdue on a loan from an online lending app, and they are threatening to file a case in the small claims court. What should I do, and what are my legal rights?</p><p><strong>Insights:</strong></p><p>It is not uncommon for online lending apps to threaten legal action for non-payment. However, small claims court is designed to handle cases involving specific amounts of money. If the lender files a claim, they will need to provide evidence of the loan agreement and your outstanding balance.</p><p>If you receive a formal notice that a case has been filed, you should appear in court and present your side of the story. You may raise defenses, such as contesting the amount owed or negotiating a settlement with the lender prior to the court date. It's best to communicate with the lender and explore repayment options to avoid escalation.</p><p>Additionally, you have consumer rights that protect against harassment from lenders, and any abusive or harassing behavior from the lending app can be reported to regulatory authorities such as the National Privacy Commission or the Bangko Sentral ng Pilipinas.</p><p>Consulting with a lawyer can provide guidance on the best course of action and help protect your legal rights.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Where can I get a marriage contract in Muslim rites?"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I had a marriage ceremony with a Muslim man, but I am not sure if our marriage was valid. I did not register the wedding, and now I want to check if it was registered or not. Additionally, I would like to obtain either the marriage certificate or a certificate that confirms it was not registered. Where should I go to get these documents? Thank you.</p><p><strong>Insights:</strong><br>In the Philippines, marriages under Muslim rites are governed by Presidential Decree No. 1083, also known as the Code of Muslim Personal Laws of the Philippines. To verify whether your marriage is valid or registered, you can visit the Shari’a District or Circuit Court, which handles Muslim personal law matters. The court should have records of marriages solemnized under Muslim rites.<br>If you need a marriage certificate, you may request a copy from the Philippine Statistics Authority (PSA) or the local civil registry in the municipality where the marriage took place. If the marriage is not registered, you may ask for a certificate of no record from the PSA.<br>If you find that the marriage was not registered but was valid under Islamic law, you can still have it registered with the proper authorities. It is best to consult a lawyer experienced in Muslim personal law for assistance in ensuring the validity of the marriage and the proper steps for registration.</p>

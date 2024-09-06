@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Trespassing and Property Encroachment"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Recently, someone entered my titled farmlot accompanied by armed individuals and a surveyor, and they placed new boundary markers on my property without my consent. I regularly pay property taxes and hold a valid title. How should I address this encroachment legally?</p><p><strong>Insights:</strong><br>If someone has entered your property without your permission and altered your boundary markers, they may be committing trespass or encroachment, both of which are illegal under Philippine law. You have the right to file a complaint with the police for trespassing, and if necessary, pursue civil action to establish or confirm your property's boundaries through a court-ordered survey. The fact that your property is titled and that you pay taxes regularly further strengthens your claim to the land. It's crucial to gather any evidence, such as photos of the new markers and statements from witnesses, to support your case. Consulting with a lawyer who specializes in property law will help ensure that your rights are upheld and provide you with a clearer legal strategy moving forward.</p>

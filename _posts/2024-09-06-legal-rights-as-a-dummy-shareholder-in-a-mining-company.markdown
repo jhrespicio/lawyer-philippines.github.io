@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Rights as a Dummy Shareholder in a Mining Company"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br> I have been a dummy shareholder for a Chinese mining company operating in Mindanao since 2019. However, I have not received any shares or compensation from the company, despite its continuous operation. As a dummy, do I have the legal right to ask for my share, or is there a way I can file a case against the company? What should I do to protect my interests? Thank you.</p><p><strong>Insights:</strong><br> As a dummy shareholder, you are in a precarious legal situation. Under Philippine law, being a 'dummy' to circumvent foreign ownership restrictions may not grant you legal standing to claim ownership rights or profits because such arrangements are considered illegal. The Anti-Dummy Law (Commonwealth Act No. 108) prohibits foreign ownership beyond allowed limits, especially in industries like mining, which are subject to nationality restrictions. You may, however, be able to claim remuneration for services rendered through another legal avenue, such as a breach of contract or unjust enrichment. It's advisable to consult a lawyer specializing in corporate or labor law to explore your options, as continuing your role as a dummy exposes you to potential legal liabilities.</p>

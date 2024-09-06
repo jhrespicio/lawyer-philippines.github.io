@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Mandatory Benefits and Unfair Treatment"
+date: 2024-09-06 09:42:40 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am seeking legal advice regarding my spouse's unfair treatment at work. They are currently employed by a company where they are being subjected to undue scrutiny and receiving unjust violation memos, allegedly to strip them of their benefits. This appears to be a targeted effort by the management to diminish their rights and entitlements as an employee. Can you please provide guidance on how we can address this situation and protect my spouse's mandatory benefits?</p><p><strong>Insights:</strong><br>In the Philippines, employees are entitled to a number of mandatory benefits, such as SSS, PhilHealth, Pag-IBIG, and others specified under the law. If an employee believes they are being unjustly treated and are being stripped of their benefits through unfair practices, they can file a complaint with the Department of Labor and Employment (DOLE). The Labor Code of the Philippines ensures that employees are protected from any form of harassment or unjust treatment, especially if it leads to the deprivation of legally mandated benefits. Your spouse may also consider filing a case for illegal dismissal if the company’s actions are geared towards unjust termination. It is advisable to gather all necessary documentation, such as memos and employment contracts, and consult a lawyer specializing in labor law for further assistance.</p>
