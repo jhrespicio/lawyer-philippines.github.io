@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Can I Be Terminated for Alleged Reckless Driving Despite Disputing the Claim?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am a driver who was terminated by my company on allegations of reckless driving, which I firmly deny. The incident was captured on CCTV, and it shows that I was not at fault. I have refused to sign the dismissal notice, but they have banned me from entering the company's premises. What are my legal options?</p><p><strong>Insights:</strong><br>In the Philippines, termination of employment based on just causes, such as serious misconduct or gross negligence, must follow due process. As an employee, you have the right to due process, which includes a notice of the allegations, an opportunity to be heard, and a decision based on a fair assessment of the facts. In your case, if you believe that the accusation of reckless driving is unfounded and there is evidence (such as the CCTV footage) to support your claim, you may challenge your dismissal through the appropriate labor channels. You can file a complaint for illegal dismissal with the National Labor Relations Commission (NLRC). If the company did not follow due process in dismissing you, or if the cause for termination was unjustified, the NLRC may order your reinstatement or the payment of back wages. Given the complexity of your case, it is recommended to seek the assistance of a labor lawyer to evaluate your situation and guide you through the legal process.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Can the Right of Way Granted Be Revoked by the Owner?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I have granted a right of way to my neighbor over a portion of my land. However, due to recent disputes, I am considering revoking this right. Can I legally revoke the right of way that I have previously granted? What are my legal options in this situation?</p><p><strong>Insights:</strong><br>Once a right of way has been granted, it is not easy to revoke it unilaterally, especially if the right of way is established through a formal legal document such as a contract, easement, or court order. The Civil Code of the Philippines recognizes the right of way as a legal encumbrance on the property, which usually cannot be revoked unless the conditions that justified its grant no longer exist. For example, if the property benefiting from the right of way no longer requires it for access, or if there has been abuse in its use, there may be grounds for revocation. However, this requires a legal process. If the right of way was contractual, you would need to review the terms of the agreement, as it may include provisions for revocation or modification. It is advisable to consult with a lawyer to assess your legal standing and options, as filing a case in court may be necessary to resolve this issue.</p>

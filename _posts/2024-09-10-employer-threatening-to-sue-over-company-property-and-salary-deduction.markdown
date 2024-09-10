@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employer Threatening to Sue Over Company Property and Salary Deduction"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My employer sent me a letter threatening to sue me over company property, and they are harassing me and my mother by repeatedly calling. They also want me to sign documents to deduct one month’s salary due to my resignation. Is this legal?</p><p><strong>Insights:</strong><br>Your employer’s actions, including harassment and threats, may violate labor and civil laws in the Philippines. First, under the Revised Penal Code, harassment, including repeatedly contacting you or your family, could amount to unjust vexation. Furthermore, employers are generally not permitted to deduct salaries arbitrarily, even in cases of resignation. Any salary deductions must comply with the Department of Labor and Employment (DOLE) guidelines, which state that deductions are only allowed under specific circumstances (e.g., taxes, SSS contributions, or valid debts). As for company property, if you failed to return company-owned items, your employer could pursue legal remedies, but they must do so through appropriate legal channels, such as filing a formal claim in court. You may consider filing a complaint with DOLE for unlawful deductions and harassment.</p>

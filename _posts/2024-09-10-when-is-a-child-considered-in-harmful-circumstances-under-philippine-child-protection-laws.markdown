@@ -1,0 +1,7 @@
+---
+layout: article
+title: "When Is a Child Considered in Harmful Circumstances Under Philippine Child Protection Laws?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I would like to know when a child is considered to be in a harmful situation according to the Child Protection laws in the Philippines, especially if they are living with a person who could be a bad influence on them.</p><p><strong>Insights:</strong><br>Under the Republic Act No. 7610 or the “Special Protection of Children Against Abuse, Exploitation and Discrimination Act,” a child is considered in harm or at risk when subjected to any situation that exposes them to abuse, neglect, cruelty, exploitation, or conditions detrimental to their physical, mental, emotional, or social development. Living with a person who exerts a bad influence on the child, such as engaging in illegal activities or exhibiting harmful behavior, may be considered as exposing the child to a potentially harmful environment. Under the law, it is important to report such cases to authorities, particularly to the Department of Social Welfare and Development (DSWD), for investigation and intervention if necessary. Ultimately, the child's best interest must always be protected, and prompt action should be taken to prevent any further harm.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Changing a Surname on a Birth Certificate"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>What should I do if I want to change the surname listed on my nephew’s birth certificate? Is this allowed, and what is the process?</p><p><strong>Insights:</strong></p><p>Changing the surname on a birth certificate is generally allowed in specific cases, such as correcting clerical errors, acknowledging paternity, or changing the surname of an illegitimate child to that of the father under the proper legal process.</p><p>Under Republic Act No. 9255, an illegitimate child may use the surname of the father if paternity is acknowledged. The father must execute an Affidavit of Acknowledgment or an Affidavit to Use the Surname of the Father (AUSF), which is then submitted to the Local Civil Registrar. However, if the child was born legitimate, changing the surname may require a court order, especially if it involves a contested issue like guardianship or legal adoption.</p><p>The process involves filing the appropriate forms and documentation with the Local Civil Registrar or, in more complex cases, filing a petition in court. It’s advisable to consult a lawyer who specializes in family law to assist with the necessary legal steps.</p>

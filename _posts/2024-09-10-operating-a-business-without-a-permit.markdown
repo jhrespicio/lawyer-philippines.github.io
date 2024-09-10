@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Operating a Business Without a Permit"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I know someone who has opened a spa and salon business without securing the necessary permits from the local government. Is this legal, and what are the possible consequences for operating a business without a permit?</p><p><strong>Insights:</strong><br>Operating a business without securing the necessary permits, such as a Mayor’s Permit, Sanitary Permit, and other regulatory approvals, is illegal under Philippine law. All businesses are required to comply with local government regulations before they can legally operate. The Local Government Code of the Philippines mandates that businesses must secure these permits, and failure to do so may result in penalties, including fines, closure of the business, and possible legal action. The local government unit (LGU) where the business is located has the authority to inspect and shut down establishments that do not comply with legal requirements. Moreover, operating a spa and salon, which involves personal services, without proper sanitary permits can pose health risks to the public, which may lead to additional sanctions from the Department of Health (DOH) or other relevant authorities. The business owner should immediately cease operations and secure the required permits to avoid further legal complications. It is recommended to consult with a legal professional or the LGU to ensure compliance with all regulatory requirements.</p>

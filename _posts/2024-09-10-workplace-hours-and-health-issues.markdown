@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Workplace Hours and Health Issues"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I used to work at a hospital where I was frequently required to work 12-hour shifts, and sometimes even 24-hour shifts, for five days a week. This caused me to become ill. When I was hospitalized, I was still made to pay. How can I file a complaint about these working conditions?</p><p><strong>Insights:</strong></p><p>Under the Labor Code of the Philippines, workers are entitled to reasonable working hours and rest periods. Employers are required to comply with laws regarding maximum working hours and overtime pay. If your working conditions exceeded these limits, you may have a claim for labor violations. Moreover, if your illness was due to work-related stress or exhaustion, you may have grounds to file for compensation through the Employees' Compensation Program (ECP). You should first file a formal complaint with the Department of Labor and Employment (DOLE) to investigate the hospital's labor practices. If proven, they could be sanctioned for labor law violations, and you may be entitled to compensation for damages, unpaid overtime, and health-related claims.</p>

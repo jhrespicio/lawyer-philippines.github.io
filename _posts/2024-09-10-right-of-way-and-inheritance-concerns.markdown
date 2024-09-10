@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Right of Way and Inheritance Concerns"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>My father’s family inherited a piece of land that has since been divided among the siblings. Some have sold their shares to outsiders. We always believed that the right of way was public and accessible to all. However, we were recently informed that the right of way is now titled to one sibling, who is refusing passage unless we all pay a fee. What can we do about this situation?</p><p><strong>Insights:</strong></p><p>Under Philippine law, a right of way (or “easement of right of way”) is typically established for properties that are landlocked or do not have direct access to a public road. If the right of way was necessary for accessing the properties in the past, it could be argued that the easement remains intact, even if the land was sold to third parties. The new owners should be informed about the easement if it was pre-existing. If the sibling now controlling the right of way has the title, a legal review of that title and any associated agreements is necessary. You may seek legal remedy through a petition in court to reaffirm or reestablish the easement, especially if the access is vital. It's essential to consult a property lawyer to verify the legitimacy of the easement and explore options to settle the dispute.</p>

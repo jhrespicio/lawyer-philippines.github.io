@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Student Complaints on Low Grades and the Risk of License Revocation"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>Some of my students failed to perform well in their activities, resulting in low grades. Now, these students have filed a case against me, accusing me of unfair grading. Is there a possibility that this could affect my teaching license or my employment status?</p><p><strong>Insights:</strong></p><p>Grading disputes, especially those arising from students’ underperformance, are not uncommon. As long as you have followed your school's grading policies and procedures, and can substantiate the grades with documented performance records, your license should not be at risk. Cases filed by students due to low grades must go through due process, including an investigation of the facts. The Commission on Higher Education (CHED) or Department of Education (DepEd) may become involved if there is a formal complaint, but unless there is proven misconduct or malfeasance on your part, revocation of a teaching license is unlikely. It is important to have complete documentation of your students’ performance to support your grading decisions.</p>

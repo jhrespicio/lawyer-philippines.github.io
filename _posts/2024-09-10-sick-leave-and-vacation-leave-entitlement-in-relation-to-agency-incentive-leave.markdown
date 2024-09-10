@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Sick Leave and Vacation Leave Entitlement in Relation to Agency Incentive Leave"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>We do not have sick leave or vacation leave benefits in our company. However, we receive 5 days of incentive leave annually from our agency. I have been working with them for almost a few years now. Is it correct that we are not entitled to sick leave or vacation leave due to this arrangement?</p><p><strong>Insights:</strong><br>In the Philippines, under the Labor Code, there is no mandatory provision requiring employers to provide sick leave or vacation leave to employees unless it is stated in the company’s policies or collective bargaining agreements (CBAs). The law, however, mandates service incentive leave (SIL), which is at least 5 days of paid leave per year, for employees who have rendered at least one year of service. Since you mentioned receiving 5 days of incentive leave, it is likely that this is the required service incentive leave. If the company does not voluntarily offer additional sick or vacation leave, they are not legally obligated to provide it. However, any provisions more favorable to the employee based on contracts or company policy should be honored.</p>

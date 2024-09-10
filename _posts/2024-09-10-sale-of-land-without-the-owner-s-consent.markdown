@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Sale of Land Without the Owner's Consent"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I purchased a portion of land, and three people signed the deed of sale. However, the actual landowner refused to sign and claims they were unaware the land was mortgaged, and even more so, they never intended to sell it. Now, the sellers are asking me to return the land title (CLOA). What legal actions should I take?</p><p><strong>Insights:</strong></p><p>This situation touches on both property and contract laws. Since the actual owner did not consent to the sale, the contract could be considered void due to the lack of consent from the rightful owner, as required under the Civil Code of the Philippines (Article 1318). The rightful landowner must consent to any transaction involving their property. The Comprehensive Agrarian Reform Program (CARP) laws, including those on CLOA (Certificate of Land Ownership Award), further complicate this, as CLOA lands have restrictions on sales and transfers. You may need to void the contract and seek restitution for any payments made. Consulting a real estate lawyer will help protect your rights and clarify your standing concerning the CLOA.</p>

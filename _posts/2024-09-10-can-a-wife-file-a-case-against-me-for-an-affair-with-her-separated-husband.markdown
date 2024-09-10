@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Can a Wife File a Case Against Me for an Affair with Her Separated Husband?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am a widow and had an affair with a man who has been separated from his wife for over 15 years. Can the wife file a case against me, given that they have not lived together for such a long time?</p><p><strong>Insights:</strong><br>While adultery and concubinage are considered crimes under the Revised Penal Code of the Philippines, the key consideration in your situation is whether the marriage between the man and his wife is still legally valid and if they are still married under the law. Regardless of how long they have been separated, the absence of a legal annulment or declaration of nullity of marriage means they are still legally married. The wife may potentially file a case of adultery against you under Article 333 of the Revised Penal Code, assuming she can prove that sexual relations occurred while her husband was still legally married to her. However, she would need sufficient evidence to prove the crime. It is important to seek legal advice to evaluate the specific circumstances of your case, especially given the complexities surrounding marital separation and the lack of legal annulment.</p>

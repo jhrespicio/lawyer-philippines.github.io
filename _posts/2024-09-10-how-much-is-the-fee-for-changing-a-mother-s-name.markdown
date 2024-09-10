@@ -1,0 +1,7 @@
+---
+layout: article
+title: "How Much is the Fee for Changing a Mother's Name?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I would like to inquire about how much it costs to change the name of a mother on official records. What steps should I take, and are there any fees I should be prepared for? I need this information to proceed with the legal change.</p><p><strong>Insights:</strong><br>In the Philippines, the process for changing the name of a mother in civil records, such as a birth certificate, typically involves filing a petition in court. This process falls under Rule 103 of the Rules of Court for changes in names. Legal fees for filing a petition for name change can vary, and they include court fees, publication fees (as the change needs to be published in a newspaper of general circulation), and attorney’s fees if you decide to hire a lawyer to assist with the process. Court filing fees may range between PHP 1,000 to PHP 5,000, but this may differ depending on the locality. Attorney's fees, on the other hand, vary significantly depending on the complexity of the case and the lawyer's experience. It's advisable to consult a lawyer to get a more accurate estimate based on your specific circumstances.</p>

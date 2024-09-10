@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Division of Property Inherited from Parents"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I would like to ask about how to divide property left by our parents. The land is under my father’s name, listed as single, and we are five siblings. However, three of my siblings have already passed away. One of my remaining siblings is interested in selling the land. How should the division of property proceed in this situation?</p><p><strong>Insights:</strong><br>The property left by your father is considered part of his estate, and since he passed away, the law of intestate succession will apply. According to the Civil Code of the Philippines, the legal heirs are the children of the deceased, and if any of the siblings have already passed away, their share will be inherited by their respective children (representation). The land cannot be sold without the consent of all heirs, including the descendants of your deceased siblings. A settlement should be reached to determine how to divide the property, and if selling the land is agreed upon, it is necessary to execute a deed of sale signed by all heirs. If no consensus is reached, a judicial or extrajudicial settlement of the estate may be required.</p>

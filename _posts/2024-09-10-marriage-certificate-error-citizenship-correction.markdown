@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Marriage Certificate Error: Citizenship Correction"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>There is an error in our marriage certificate, where my wife’s citizenship is listed as American, but she is actually Filipino. How can we correct this?</p><p><strong>Insights</strong></p><p>Errors in civil documents such as marriage certificates can be corrected through administrative or judicial means, depending on the nature of the mistake. In the Philippines, a clerical or typographical error in a marriage certificate, such as an incorrect nationality, can be corrected by filing a petition for correction with the Local Civil Registry Office (LCRO) where the document was registered.</p><p>The Local Civil Registrar will review your petition and supporting documents, such as your wife's birth certificate and a copy of the marriage certificate. If the error is deemed minor, the correction can be made administratively. However, if the error is substantial or involves more than a clerical mistake, you may need to file a judicial petition for correction in court. Consult a lawyer to determine the appropriate process based on the specifics of your case.</p>

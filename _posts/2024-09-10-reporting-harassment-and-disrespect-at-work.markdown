@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Reporting Harassment and Disrespect at Work"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I am experiencing harassment and disrespect from my employer and colleagues at work. They are all of Korean nationality, and I would like to know how I can report this issue and what actions I can take under Philippine law to protect my rights.</p><p><strong>Insights:</strong></p><p>In the Philippines, employees are entitled to a workplace free from harassment and abuse. Harassment, including verbal abuse and discrimination, can be reported to the Department of Labor and Employment (DOLE). If the harassment involves sexual or gender-related issues, the victim may also seek protection under the Anti-Sexual Harassment Act of 1995 (RA 7877). You may file a formal complaint with DOLE or seek mediation within your company, depending on its internal grievance mechanisms. Documenting all instances of harassment, including dates, times, and witnesses, is crucial to support your claim. Additionally, the company’s human resources department should be informed of the situation so they can initiate an internal investigation. Depending on the severity of the harassment, criminal charges may also be an option. It is important to consult a lawyer who can guide you through the process.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Overtime Pay for Small Businesses: Stay-in and Stay-out Workers"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I own a small business in the province, and my workers, both stay-in and stay-out, are complaining about the P15 per hour overtime pay. We do not deduct for late arrivals, and there are afternoons when they have no work to do. We only request an additional hour of overtime when necessary. Is the P15 per hour rate fair, and how should we handle this situation legally?</p><p><strong>Insights:</strong></p><p>The computation of overtime pay is governed by the Labor Code of the Philippines. Overtime pay must be at least 25% more than the employee's regular hourly rate for work performed beyond eight hours in a day. If your workers' regular pay is below the minimum wage in your region, P15 per hour might not meet legal requirements. You should ensure compliance with regional wage orders, as failure to pay the proper overtime rate may expose your business to labor complaints and penalties. It is also advisable to clearly communicate the basis of overtime work and ensure workers understand that late arrivals and downtime affect their overall performance.</p>

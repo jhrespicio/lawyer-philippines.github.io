@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employer Threats Regarding Company Property"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>My employer sent me a letter threatening legal action over company property. Additionally, they harassed me and my mother by continuously calling, and they are demanding that I sign documents stating they will deduct one month of my salary because I resigned. Is this legal?</p><p><strong>Insights:</strong></p><p>Your employer's actions may be legally questionable. While an employer has the right to protect company property, their approach must be lawful and not involve harassment or intimidation. Repeatedly calling and threatening your family members could constitute harassment, which is illegal under Philippine law. Regarding salary deductions, under the Labor Code of the Philippines, employers cannot arbitrarily deduct wages without due process or consent. Any claims about company property should be resolved following proper legal channels, not through coercive tactics. If the harassment continues, you may file a complaint with the Department of Labor and Employment (DOLE) or take legal action for unlawful practices and harassment.</p>

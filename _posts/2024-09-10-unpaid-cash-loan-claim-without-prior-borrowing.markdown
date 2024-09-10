@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Unpaid Cash Loan Claim Without Prior Borrowing"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I received a message from Home Credit stating that I have an unpaid cash loan. However, I have never borrowed money from them nor received any amount. What should I do about this situation?</p><p><strong>Insights</strong></p><p>If you are being falsely accused of having an unpaid loan that you never borrowed, it is essential to take immediate action. First, contact Home Credit directly to clarify the situation and ask for all related documentation, including the loan contract and proof of disbursement. You have the right to dispute any incorrect information.</p><p>If Home Credit cannot provide valid evidence, you may need to file a formal complaint with the National Privacy Commission (NPC) for possible data privacy violations. You should also check if your personal information has been compromised by reviewing your credit report from the Credit Information Corporation (CIC).</p><p>If Home Credit continues to insist on the payment, and you believe this is an attempt at fraud or harassment, you may seek legal counsel to explore the possibility of filing a complaint or countering the claim in court.</p>

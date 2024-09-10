@@ -1,0 +1,7 @@
+---
+layout: article
+title: "What Is a Demurrer to Evidence?"
+date: 2024-09-10 13:59:50 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Could you please explain what a demurrer to evidence is? I have heard about this in the context of court proceedings, but I do not fully understand how it works.</p><p><strong>Insights:</strong><br>A demurrer to evidence is a legal motion filed by the defendant in a court case, typically after the prosecution or plaintiff has presented their evidence, but before the defense presents theirs. The purpose of a demurrer is to argue that the evidence presented by the other side is insufficient to establish a case, and therefore, the court should dismiss the case outright without requiring the defense to present any evidence. In the Philippines, under the Rules of Court, specifically Rule 33 for civil cases and Rule 119 for criminal cases, a demurrer is used to challenge the sufficiency of evidence. If the court grants the demurrer, the case is dismissed. In criminal cases, if the court grants a demurrer to evidence, the dismissal is equivalent to an acquittal, which means the defendant cannot be tried again for the same offense due to the principle of double jeopardy. Filing a demurrer is a strategic decision, and should be done with the assistance of a lawyer, as its denial will mean that the defendant must proceed to present their defense.</p>
