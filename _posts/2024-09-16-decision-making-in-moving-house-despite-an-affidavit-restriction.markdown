@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Decision-Making in Moving House Despite an Affidavit Restriction"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>My brother wants to move out of their house and bring their belongings, but his partner had an affidavit prepared stating that moving the items is not allowed. However, my brother's partner has consented to their parents being the guardians of their children. Can my brother decide on his own to move out despite the affidavit?</p><p><strong>Insights:</strong></p><p>In situations like this, the affidavit is a legally binding document that needs to be respected unless successfully challenged or amended in court. If the affidavit explicitly prohibits the moving of household items, your brother could face legal consequences if he disregards it. It is crucial that he consult a lawyer to review the affidavit and consider any legal remedies that might be available. In cases where guardianship of children is also involved, it is important to ensure that all legal arrangements are clear and in the children's best interests. Your brother and his partner may need to seek legal mediation to resolve the matter amicably and ensure that all parties are protected.</p>

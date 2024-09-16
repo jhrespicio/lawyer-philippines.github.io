@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Postpartum Depression and Custody Issues After Childbirth"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br/>I recently gave birth, and my partner often takes our child during our fights and threatens to take the child to his family. I also feel that my postpartum depression is worsened by the lack of support from him and his family. What can I do legally?</p><p><strong>Insights:</strong><br/>Postpartum depression is a serious condition, and it’s essential to prioritize your mental health. In the Philippines, the law prioritizes the welfare of the child, especially for very young children, where the courts tend to favor the mother in custody disputes, unless proven unfit. Your partner’s behavior, including taking the child without your consent and threatening to remove the child from your care, could be seen as emotional abuse or even a violation of your parental rights. You may seek legal assistance to file for temporary or permanent custody if the situation worsens. Additionally, if your partner’s actions are affecting your mental health, you may want to consider seeking a protection order under Republic Act No. 9262, or the Anti-Violence Against Women and Their Children Act.</p>

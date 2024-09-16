@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Responsibility for Damages in a Car Accident Without Insurance"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I was involved in a car accident last February while driving a Toyota Innova that had no insurance. The car collided with a Toyota van, and now I am being held responsible for all the damages, including the repair costs. Is it right for the owner of the Innova to make me, the driver, liable for all the damages?</p><p><strong>Insights:</strong><br>In the Philippines, liability in a vehicular accident depends on several factors, including negligence and ownership of the vehicle. Under Philippine law, the driver and the owner of a vehicle may both be held liable in cases of accidents, depending on the circumstances. If the accident was due to your negligence as the driver, you may indeed be held responsible for damages. However, since the vehicle had no insurance, the financial burden would typically fall on both the driver and the vehicle owner if both are found liable. The absence of insurance does not automatically shift the full liability to you. It is advisable to review the circumstances of the accident and consult a lawyer who can assess whether the damages being charged to you are fair under the circumstances. Furthermore, the vehicle owner may also have some responsibility, especially if the vehicle was not properly insured.</p>

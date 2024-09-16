@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Employer Giving Time to Find New Job After Termination Notice"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>My employer told me that they will give me time to find another job after notifying me about my termination. What are my rights in this situation?</p><p><strong>Insights:</strong></p><p>In the Philippines, employers are required to observe <em>due process</em> in terminating employees. According to the <em>Labor Code</em>, there must be both a valid cause and proper procedure in terminating employment. If the employer has given notice of termination but is providing you time to find another job, this might be a gesture of goodwill. However, it is important to ensure that the proper notice period is followed (at least 30 days' notice) and that the termination is based on just or authorized causes.</p><p>As an employee, you are entitled to your <em>final pay</em>, which includes your last salary, unused leave credits, and other benefits owed to you. You may also be entitled to <em>separation pay</em> if the termination is for authorized causes, such as redundancy or retrenchment. If you feel that your termination is unjust or lacks due process, you can file a complaint with the Department of Labor and Employment (DOLE) for illegal dismissal.</p>

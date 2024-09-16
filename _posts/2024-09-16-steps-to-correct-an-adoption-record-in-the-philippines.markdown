@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Steps to Correct an Adoption Record in the Philippines"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My father was adopted, but his current birth certificate still reflects his biological parents. We cannot proceed with a late registration because the special adoption proceeding was not submitted to the National Statistics Office (NSO). What steps should we take?</p><p><strong>Insights:</strong><br>The situation involving incomplete records for an adoption is not uncommon, but it can be rectified. The first step is to obtain certified copies of the adoption documents from the court where the adoption was finalized. Once you have the court decision, you will need to file a petition for the correction of entry with the Local Civil Registrar (LCR) where your father’s birth certificate was registered. You will also need to submit a copy of the adoption decree to the Philippine Statistics Authority (PSA, formerly NSO) for updating their records. If the adoption decree is not available, you may have to go through a process to reconstruct the records. It is advisable to consult a lawyer specializing in family law to assist in processing the necessary documents and petitions.</p>

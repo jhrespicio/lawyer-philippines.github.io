@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a Complaint Against Employer for Termination Without Notice"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I was recently hired by a company but was terminated just three days into the job. The company informed me that the termination was due to the client’s decision, citing redundancy as the reason. I did not receive any prior notice. Can I file a complaint against my employer for wrongful termination?</p><p><strong>Insights:</strong></p><p>Under Philippine law, specifically the Labor Code, employees are entitled to security of tenure, which means they cannot be dismissed from work without just or authorized cause and due process. Redundancy is considered a valid ground for termination under Article 298 (formerly Article 283) of the Labor Code, provided certain conditions are met, such as providing written notice to both the employee and the Department of Labor and Employment (DOLE) at least 30 days before the intended date of termination.</p><p>However, if you were employed for only three days and were terminated without notice, it may constitute illegal dismissal. You have the right to file a complaint with the National Labor Relations Commission (NLRC) if you believe that your termination was unlawful. It is advisable to consult with a labor lawyer to explore your options and ensure that your rights are upheld.</p>

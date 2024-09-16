@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Understanding Interest Rates on Loans After Seven Days of Default"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I borrowed money, and after seven days of failing to pay, I was informed that the lender is charging an additional amount in interest. Is it legal for the lender to impose this interest rate, and is there any limit on the amount they can charge? I am worried because the interest seems unreasonably high.<br><br><strong>Insights:</strong><br>Under Philippine law, interest rates on loans must be reasonable and agreed upon by both parties at the time of borrowing. If the lender is attempting to impose an interest rate after the fact or if the interest seems excessive, this may be considered usurious. The Usury Law has been suspended in the Philippines, but interest rates are still governed by principles of fairness and public policy.<br>While the Supreme Court has ruled that an interest rate of 12% per annum is generally acceptable in loan agreements, rates significantly higher than that may be considered unconscionable and reduced by the courts. You may negotiate with the lender to lower the interest or seek legal assistance to contest the excessive charges. It is important to carefully review the terms of your loan agreement to ensure compliance with the law.</p>

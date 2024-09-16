@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Garnishment of Assets by Bank Credit Card Companies"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Due to financial difficulties during the pandemic, I accumulated credit card debt. Can banks or credit card companies garnish my assets to recover these debts?</p><p><strong>Insights:</strong><br>In the Philippines, credit card companies and banks cannot automatically garnish your assets simply because you have unpaid debts. Garnishment is a legal process that requires a court order. If a creditor files a lawsuit against you to recover the debt and wins the case, the court may issue a writ of execution, which could include garnishment of your assets, such as your bank accounts or property, to satisfy the judgment. However, certain types of assets, such as salaries up to the minimum wage, are exempt from garnishment. It is advisable to negotiate with the bank or credit card company to explore alternative solutions, such as restructuring the debt or settling the amount for a reduced figure. If the matter proceeds to court, having legal representation will help ensure that your rights are protected and that any court-ordered garnishment is handled lawfully and fairly.</p>

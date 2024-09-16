@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filipino Married to a Korean with Children"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am a Filipino married to a Korean national, and we have two children aged 7 and 9. We got married in 2014. I would like to know how our marriage and the legal status of our children are recognized under Philippine law.</p><p><strong>Insights:</strong><br>In the Philippines, marriages between a Filipino and a foreigner are recognized as long as they comply with the legal requirements of the country where the marriage was solemnized. For your marriage to be recognized in the Philippines, you must report your marriage to the Philippine Embassy or Consulate where the marriage took place, and the report must then be forwarded to the Philippine Statistics Authority (PSA). Regarding your children, as minors born to a Filipino parent, they are considered Filipino citizens under Philippine law. You may apply for dual citizenship for your children, allowing them to enjoy the rights and privileges of both Filipino and Korean citizenship. It is also advisable to ensure that their births have been reported to the Philippine Embassy for registration with the PSA.</p>

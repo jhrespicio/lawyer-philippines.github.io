@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Demanding Replacement for Defective Gadget After Multiple Repairs"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>We purchased a gadget two months ago, but it has had multiple hardware and software problems. We have brought it back to the service center several times. The store is telling us that the 7-day replacement policy no longer applies. Can we still demand a replacement unit?</p><p><strong>Insights:</strong></p><p>Under Republic Act No. 7394 or the Consumer Act of the Philippines, consumers are entitled to remedies for defective goods, including repair, replacement, or refund. The 7-day replacement period commonly mentioned by stores refers to a store policy, but it does not negate your rights as a consumer. Given that the unit has multiple defects and previous repairs have not solved the issue, you may demand a replacement or refund.</p><p>To strengthen your case, ensure that you have documented the previous repairs and the unit’s ongoing issues. If the store refuses your demand, you can file a complaint with the Department of Trade and Industry (DTI) or seek legal assistance to pursue a consumer protection case.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Delayed Final Pay After Separation"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I separated from my company in November 2023, and my final pay has not yet been released. Some of my colleagues received theirs within 30-45 days, but I still haven’t received mine. My employer stated that the delay was due to the time taken to complete my clearance process. I signed the clearance in November, and I feel this delay is unfair. What legal actions can I take to claim my final pay?</p><p><strong>Insights:</strong></p><p>Under Philippine labor laws, your final pay should typically be released within a reasonable time after the completion of the clearance process, often within 30 days. Since you have already completed your clearance, and your final pay has been unduly delayed, you can first send a formal demand letter to your employer, emphasizing your right to receive your final pay. If this does not result in the release of your pay, you may file a complaint with the Department of Labor and Employment (DOLE). You can also consider raising this matter to DOLE's National Labor Relations Commission (NLRC) if mediation efforts fail. Delays in releasing final pay may constitute illegal withholding of wages, which is punishable under the Labor Code.</p>

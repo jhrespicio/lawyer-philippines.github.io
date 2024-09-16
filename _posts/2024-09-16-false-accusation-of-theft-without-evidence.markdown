@@ -1,0 +1,7 @@
+---
+layout: article
+title: "False Accusation of Theft Without Evidence"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>What can I do if someone falsely accuses me of theft without evidence? It turns out the accusation was wrong because we just happen to own similar items, and I have proof of purchase for mine.</p><p><strong>Insights:</strong></p><p>Being falsely accused of a crime like theft is a serious matter. Under Philippine law, making baseless accusations may expose the accuser to both criminal and civil liabilities. You may consider filing a case for <em>slander</em> or <em>libel</em> under the <em>Revised Penal Code</em>, depending on whether the accusation was made verbally or in writing. If the accusation was made in public, it could constitute <em>oral defamation</em> (slander) or <em>cyber libel</em> if done online.</p><p>In addition to criminal charges, you can file a civil case for <em>damages</em> based on <em>malicious prosecution</em> if you suffered harm to your reputation, emotional distress, or any other damage caused by the false accusation. As you have proof of purchase and the accuser lacks evidence, the law is on your side in defending your innocence and claiming restitution.</p>

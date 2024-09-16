@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Negligence in Carabao Care Leading to Fatal Accident"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>What legal action can we take against the owner of a carabao? The owner neglected the carabao, and it wandered onto a highway around 10 p.m., which was dark. My uncle was driving home, hit the animal, and unfortunately, passed away due to the accident.</p><p><strong>Insights:</strong></p><p>Under Philippine law, negligence that leads to an accident resulting in injury or death can hold the responsible party liable. In this case, the owner of the carabao may be held liable for <em>criminal negligence</em> or <em>reckless imprudence resulting in homicide</em> under the Revised Penal Code. The owner has a duty to prevent the animal from wandering into public spaces, especially roads where accidents may happen. If found guilty, the carabao owner could face imprisonment or pay damages to the victim's family for their loss.</p><p>Furthermore, under the <em>Civil Code</em>, an animal owner may also be liable for damages caused by their negligence in securing their animals. This includes compensation for loss of life, medical bills, funeral expenses, and moral damages. It is advisable to file both a criminal case for reckless imprudence and a civil case for damages.</p>

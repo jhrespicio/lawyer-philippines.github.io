@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Recourse for Non-Delivery of Paid Items"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I ordered from a seller with a payment-first policy, but after a month of waiting, the seller still hasn’t shipped the items. They are no longer reachable, and many other buyers are in the same situation. What legal action can we take, considering this seems like a scam?</p><p><strong>Insights:</strong><br>In cases like this, where there is non-delivery of goods after payment and the seller is unreachable, you may file a case for estafa or swindling under the Revised Penal Code. Estafa is committed when someone defrauds another by misrepresenting themselves, thereby gaining unjust enrichment. If the situation involves a large number of people and significant amounts of money, this could also escalate into a large-scale estafa case. It is advisable to gather all evidence, such as payment records, communication with the seller, and testimonials from other affected buyers, and report the incident to the authorities, including the National Bureau of Investigation (NBI) or the police. Additionally, you can seek recourse through a consumer complaint with the Department of Trade and Industry (DTI).</p>

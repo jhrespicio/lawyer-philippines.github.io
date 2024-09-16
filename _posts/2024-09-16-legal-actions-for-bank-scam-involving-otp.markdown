@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Actions for Bank Scam Involving OTP"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I was scammed through my bank by someone who obtained my One-Time Password (OTP) via calls and texts. The scammer used my card for fraudulent transactions, and all I have is their phone number. What legal actions can I take?</p><p><strong>Insights:</strong></p><p>Being a victim of a bank scam, particularly one involving unauthorized access to your OTP, can be distressing. You may file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP), specifically with the Anti-Cybercrime Group. With the scammer’s phone number, the authorities can conduct an investigation to trace the individual responsible for the fraud. Additionally, you should immediately report the incident to your bank to request the freezing of your account, prevent further transactions, and possibly recover the funds.</p><p>It is also advisable to inform the Bangko Sentral ng Pilipinas (BSP) through their Consumer Assistance Mechanism if your bank fails to take appropriate action. In such cases, the scammer may be charged under the Cybercrime Prevention Act (RA 10175), particularly for crimes like identity theft, phishing, or online fraud.</p>

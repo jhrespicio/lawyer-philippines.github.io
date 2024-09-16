@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Steps for Selling Property and Drafting a Special Power of Attorney (SPA) in the Philippines"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I am planning to sell a property in Makati, but I am currently residing abroad. I need assistance in drafting a Special Power of Attorney (SPA) to authorize someone in the Philippines to complete the sale on my behalf. Can you advise me on the necessary steps and legal requirements for this process?<br><br><strong>Insights:</strong><br>To sell your property in Makati while residing abroad, you will need to execute a Special Power of Attorney (SPA) authorizing a trusted person to represent you in the transaction. This document must be notarized and, if executed abroad, authenticated by the nearest Philippine consulate or embassy.<br>It is advisable to hire a lawyer with experience in real estate transactions to draft the SPA. The attorney will ensure that the document complies with Philippine laws, especially if you plan to have it notarized abroad. The SPA must explicitly state the scope of your representative's authority, such as signing the Deed of Sale and receiving the purchase payment on your behalf. Since you already have a Letter of Intent (LOI) from a buyer, you will need to ensure that the SPA aligns with the terms of your sale agreement. The notarized and authenticated SPA should then be sent to your representative in the Philippines to complete the transaction legally.</p>

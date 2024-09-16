@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Filing a VAWC Case for Psychological Abuse"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My husband and I recently had a confrontation with his mistress, and I discovered that he had given her a significant amount of money. We opted for an amicable settlement rather than pursuing a legal case, but I feel psychologically abused. Can I still file a case under the VAWC law for psychological abuse?</p><p><strong>Insights:</strong><br>Yes, under the Republic Act No. 9262 or the Violence Against Women and Their Children (VAWC) Act, psychological violence is one of the forms of abuse covered. If you believe that your husband's actions have caused you emotional or psychological distress, you may file a VAWC case. Psychological violence includes acts that cause mental or emotional suffering such as infidelity, neglect, and abuse. It is important to gather evidence of the abuse and emotional suffering you have endured, and seek assistance from the barangay or the nearest police station that handles VAWC complaints. An amicable settlement regarding other issues does not bar you from filing a VAWC case for the psychological harm you experienced.</p>

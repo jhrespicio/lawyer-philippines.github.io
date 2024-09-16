@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Bullying and Unjust Vexation"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I would like to understand more about the legal implications of bullying and unjust vexation. What actions can be taken against a person who continuously harasses or bullies another?</p><p><strong>Insights:</strong></p><p>Bullying, especially in the school or workplace setting, may fall under the law governing <em>Unjust Vexation</em> (Article 287 of the Revised Penal Code). It involves causing annoyance or irritation to someone without a legitimate reason, with the intent of harassing or disturbing that person. This act can lead to criminal charges, and penalties for unjust vexation could include imprisonment or a fine, depending on the severity of the harassment.</p><p>In cases of bullying, if the acts of harassment are continuous and severe, the victim may also file for <em>psychological abuse</em> under the <em>Anti-Violence Against Women and Children Act (RA 9262)</em> if the perpetrator is related to the victim. In schools, the <em>Anti-Bullying Act of 2013 (RA 10627)</em> provides specific protections and imposes penalties on bullies. Victims can file a formal complaint with the authorities and seek legal remedy.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Child's Rights Against Physical Abuse by Stepfather"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>What legal recourse does a child have if they are being physically abused by their stepfather?</p><p><strong>Insights:</strong></p><p>In cases where a child is physically abused by a stepfather, the law offers several protections. Under the <em>Anti-Violence Against Women and Children Act (RA 9262)</em>, any form of physical abuse against a child is punishable. The child or the child's guardian can file a complaint for physical abuse and seek the protection of the court. The stepfather may face imprisonment, fines, and other penalties for violating this law.</p><p>Furthermore, the child can also be placed under protective custody by the Department of Social Welfare and Development (DSWD) if there is an immediate threat to their safety. A <em>Temporary Protection Order</em> (TPO) or a <em>Permanent Protection Order</em> (PPO) may be issued by the court to prevent the abuser from approaching or contacting the child. The guardian or other concerned parties should report the abuse to the authorities immediately for the child's safety and wellbeing.</p>

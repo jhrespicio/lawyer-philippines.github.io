@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Annulment Based on Husband's Abandonment and Financial Neglect"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br> I want to file for an annulment against my husband. He abandoned me 21 years ago and has not provided financial support since then. He worked in California for 18 years but only supported me for 5 of those years. To survive, I had to mortgage our house, which is under my name. When he found out, he had his sister pay off the loan and now claims that the house is his. He currently lives with his mistress, and I want to know if I can annul our marriage based on these facts. We were married on December 26, 1989.</p><p><strong>Insights:</strong><br> In the Philippines, annulments are granted on specific grounds under the Family Code. Unfortunately, abandonment and financial neglect, while distressing, are not grounds for annulment. However, these could be grounds for legal separation or for seeking financial support. If your husband is psychologically incapacitated to perform his marital obligations, you may file for annulment under Article 36 of the Family Code, but you would need to prove this through medical or psychological evidence. You should consult with a family lawyer to explore your options and determine whether psychological incapacity applies in your case.</p>

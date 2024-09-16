@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Harassment by Loan Company After Robbery"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I took out a loan but was later robbed, losing my phone and other valuables. Since then, the loan company has been relentlessly contacting my friends and family and harassing me. I am overwhelmed and considering taking drastic actions. What can I do to stop this harassment?</p><p><strong>Insights:</strong><br>In the Philippines, harassment by debt collectors is illegal under Republic Act No. 3765 or the Truth in Lending Act. While creditors have the right to collect debts, they must do so within the bounds of the law. Debt collection practices that involve harassment, threats, or contacting third parties (such as family members) without the debtor’s consent can be considered unfair and unlawful. You may file a formal complaint with the Securities and Exchange Commission (SEC) or the Bangko Sentral ng Pilipinas (BSP), depending on the nature of the loan, as these bodies regulate loan companies and their collection practices. It is also advisable to seek assistance from a lawyer or a financial adviser who can help negotiate with the loan company or guide you through the legal process to stop the harassment.</p>

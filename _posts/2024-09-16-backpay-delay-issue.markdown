@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Backpay Delay Issue"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I have been waiting for my backpay for four months now, but I have not received it. I contacted my former employer, and they said they were busy and would contact me later. However, it has been quite some time, and they haven't reached out. What legal options do I have to expedite this process?</p><p><strong>Insights:</strong></p><p>The Labor Code of the Philippines mandates that final pay, which includes unpaid wages, accrued leave, and other benefits, should be released by the employer upon an employee's separation. Although the law does not specify an exact timeline, companies typically process final pay within 30 days of separation or after clearance procedures have been completed. You may first send a formal demand letter requesting the immediate release of your backpay. If this does not work, you may file a complaint with the Department of Labor and Employment (DOLE). DOLE can mediate the issue and compel the employer to release your final pay. Legal recourse, such as filing a case for illegal withholding of wages, can also be pursued under Article 116 of the Labor Code.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Dual Birth Registration"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>I recently discovered that my birth was registered twice, once by my parents and once by my grandparents. Both registrations have slight differences in my name and birth details. What can I do to correct this situation?</p><p><strong>Insights:</strong><br>Dual birth registration is a rare but not entirely uncommon issue. To address this, you will need to file a petition for the cancellation or correction of entry under Rule 108 of the Rules of Court in the Philippines. You can initiate the process by going to the local civil registry where both birth certificates were filed and request the cancellation of one of the records. The petition will likely require you to present supporting documents, such as the correct birth certificate, affidavits, and other pertinent details. If there are significant discrepancies in both records, the court may also require additional hearings to determine the correct details. It is advisable to seek the assistance of a lawyer experienced in civil registry cases to ensure proper filing and representation. This process will not invalidate your legal status, but it is important to resolve it to prevent future complications, such as issues in passport applications or government records.</p>

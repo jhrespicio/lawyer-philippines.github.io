@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Pursuing Estafa Charges Against a Person Who Fled the Country"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>Many years ago, someone defrauded my father and fled abroad. Recently, we heard that this person has returned to the Philippines. Can we still pursue estafa charges after all this time?</p><p><strong>Insights:</strong><br>In the Philippines, estafa or fraud is a criminal offense under the Revised Penal Code. The prescription period, or the time within which you can file charges, depends on the severity of the estafa committed. Generally, for serious forms of estafa, the prescription period is 20 years from the time the crime was discovered. However, if the person charged fled the country, the prescription period may be paused (tolled) while they are abroad, resuming only upon their return. If the individual has indeed returned to the Philippines, you may still be able to file a complaint, depending on the amount of time that has passed since the crime was discovered. It is advisable to consult with a criminal lawyer who can assess the specifics of your case and guide you through the process of filing charges if the case is still actionable under the law.</p>

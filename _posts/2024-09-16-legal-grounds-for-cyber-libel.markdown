@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Legal Grounds for Cyber Libel"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong></p><p>I would like to inquire about the legal grounds for cyber libel in the Philippines. What are the essential elements of this crime, and how can I determine if someone has committed cyber libel against me?</p><p><strong>Insights:</strong></p><p>Under the Philippine Cybercrime Prevention Act of 2012 (Republic Act No. 10175), cyber libel is defined as libel committed through electronic means such as the internet, social media, or emails. Libel, as per Article 353 of the Revised Penal Code, involves defamatory statements that are false, malicious, and aimed at tarnishing another person’s reputation. For cyber libel, the same elements must be present:</p><ul><li>The statement must be defamatory.</li><li>The statement must be published (in this case, online).</li><li>There must be an identifiable victim.</li><li>There must be malice in the statement.</li></ul><p>Victims of cyber libel can file a complaint with the National Bureau of Investigation (NBI) or the Philippine National Police (PNP). Additionally, legal actions can be pursued in court. Penalties for cyber libel are harsher compared to traditional libel, and it is punishable with imprisonment and/or fines depending on the severity of the case.</p>

@@ -1,0 +1,7 @@
+---
+layout: article
+title: "Child Pushed by Another Student: Are the Charges of Threat Valid?"
+date: 2024-09-16 15:24:52 +0800
+---
+
+<p><strong>Dear Attorney,</strong><br>My kindergarten child was pushed by a Grade 2 student, which resulted in an injury. The parents of the other child initially denied the incident, but the child later admitted it and apologized. Now, I have received a summon for oral defamation and a claim of 'threat' because my spouse raised their voice in frustration during the incident. However, no actual threat was made. Is this valid? What should I do?</p><p><strong>Insights:</strong><br>In cases where heated arguments arise, it is common for the other party to feel intimidated, but raising one's voice in defense of a child does not automatically constitute a threat under Philippine law. For a threat charge to be valid, there must be a clear intent to cause harm, which appears absent in this situation. As for the defamation claim, statements must be proven to have been made with malice to qualify. It's important to present your side during the barangay hearing and provide witnesses, like the teacher, to clarify the situation. Legal representation can help ensure your rights are protected.</p>
